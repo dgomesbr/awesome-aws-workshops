@@ -1,0 +1,1 @@
+/Volumes/BaseQI/workdocs/dev/awesome-aws-workshops/README.md

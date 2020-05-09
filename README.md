@@ -224,12 +224,10 @@ _AI and Machine Learning related Workshops_
 - [Microsoft on AWS Development day site](http://msonaws.com/)
 - [AWS Windows Workshop (*MULTIPLE MODULES*)](https://aws-labs.net/)
 
-
 ## Networking
 
 - [IPV6](https://net207-ipv6networking.workshop.aws/)
 - [Networking Workshop - Transit Gateway and Traffic Mirroring](https://www.networking-workshop.com/#/)
-
 
 ## Security
 
