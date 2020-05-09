@@ -296,9 +296,9 @@ _AI and Machine Learning related Workshops_
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/dgomesbr/awesome-aws-workshops/blob/master/CONTRIBUTING.md) first.
 
-We will keep pull requests open so you can [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to it. Pull requests will be merged when their votes reach **10**.
+We will keep pull requests open so you can [vote for them](https://github.com/dgomesbr/awesome-aws-workshops/pulls) by adding :+1: to it. Pull requests will be merged when their votes reach **10**.
 
 ---
 
