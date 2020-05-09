@@ -1,0 +1,78 @@
+site_name: AWSome AWS Workshops
+repo_name: dgomesbr/awesome-aws-workshops
+repo_url: https://github.com/dgomesbr/awesome-aws-workshops
+edit_uri: "" # disable edit icon from theme
+site_author: Diego Magalhaes, Enrico Bergamo
+copyright: Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
+google_analytics:
+  - UA-XXXXXXXX-X
+  - auto
+extra_css:
+  - assets/css/extra.css
+nav:
+  - "Every workshop at your hands, build on!": "index.md"
+theme:
+  name: material
+  language: en
+  features:
+    #    - tabs
+    - instant
+  palette:
+    primary: orange
+    accent: indigo
+  favicon: assets/img/favicon.png
+  icon:
+    logo: material/aws
+    repo: material/git
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/dgomesbr
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/dgomesbr
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/diegomagalhaes/
+  manifest: manifest.webmanifest
+markdown_extensions:
+  - extra
+  - admonition
+  - footnotes
+  - meta
+  - codehilite:
+      guess_lang: true
+      linenums: true
+  - toc:
+      permalink: true
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.mark
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.magiclink
+  - markdown_blockdiag:
+      format: svg
+  - markdown_include.include
+  - mdx_truly_sane_lists
+plugins:
+  - search:
+      prebuild_index: true
+  - minify:
+      minify_html: true
+  # - htmlproofer
+  - awesome-pages
+  #- pdf-export:
+  #    verbose: false
+  #    media_type: print
+  #    combined: true
+  #    combined_output_path: ./AWSome-aws-workshops.pdf
