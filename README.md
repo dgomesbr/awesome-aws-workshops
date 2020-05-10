@@ -135,7 +135,7 @@ _AI and Machine Learning related Workshops_
 
 - [AWS Code Suite Integration To Atlassian Jira Software Cloud](https://atlassian.awsworkshop.io/)
 - [Continuous Deployment on AWS Workshop](https://cd.labgui.de/)
-- [CI/CD Serverless CDK](https://cicd.serverlessworkshops.io/))
+- [CI/CD Serverless CDK](https://cicd.serverlessworkshops.io/)
 - [An Introductory Workshop on CI/CD Practices](https://github.com/awslabs/aws-devops-essential)
 - [Building Serverless Web Applications with React and AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
