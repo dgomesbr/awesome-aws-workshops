@@ -7,7 +7,7 @@ ogimagealt: Awesome AWS Workshops - Build On!
 
 # Awesome AWS Workshops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome public workshops around different areas. As we have all of those scattered in different locations, the idea is to provide an easy access in a central repository, in a collaborative fashion using a repo. As the repositories listed here are discovered, we'll start including the number of :fontawesome-regular-star: each one received.
+(Unofficial) Curated list of awesome public workshops around different areas. As we have all of those scattered in different locations, the idea is to provide an easy access in a central repository, in a collaborative fashion using a repo. As the repositories listed here are discovered, we'll start including the number of :fontawesome-regular-star: each one received.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
