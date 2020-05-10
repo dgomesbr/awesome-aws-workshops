@@ -4,9 +4,6 @@ repo_url: https://github.com/dgomesbr/awesome-aws-workshops
 edit_uri: "" # disable edit icon from theme
 site_author: Diego Magalhaes, Enrico Bergamo
 copyright: Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
-google_analytics:
-  - UA-XXXXXXXX-X
-  - auto
 extra_css:
   - assets/css/extra.css
 nav:
