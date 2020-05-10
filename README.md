@@ -1,5 +1,5 @@
 ---
-title: Awesome AWS Workshops
+title: Awesome AWS Workshops - Build On!
 site_description: A curated list of awesome public workshops around different areas. 
 ogimage: http://awesome-aws-workshops.com/assets/img/awesomebg-extra.png
 ogimagealt: Awesome AWS Workshops - Build On!
@@ -177,7 +177,7 @@ _AI and Machine Learning related Workshops_
 - [General Networking and Transit Gateway workshop](https://networking.aworkshop.io/)
 - [Landing Zone](https://lz-workshop.com/)
 - [Monte Carlo Simulation using AWS Batch](https://github.com/angelarw/aws-batch-monte-carlo-workshop)
-- [Workshop: Choose Your Own SAML Adventure](http://federationworkshopreinvent2016.s3-website-us-east-1.amazonaws.com/)
+- [Choose Your Own SAML Adventure](http://federationworkshopreinvent2016.s3-website-us-east-1.amazonaws.com/)
 
 ## IoT
 
@@ -196,7 +196,7 @@ _AI and Machine Learning related Workshops_
 - [AWS WellArchitected Labs](https://wellarchitectedlabs.com/)
 - [Management Tools Immersion Day](https://workshop.aws-management.tools)
 - [Open Distro for Elasticsearch](https://reinvent.aesworkshops.com/opn302/)
-- [SSM & Config](https://ako.aws-management.tools/tko372759/en/ssm.html)
+- [AWS Systems Manager and AWS Config](https://ako.aws-management.tools/tko372759/en/ssm.html)
 
 ## Media
 
@@ -210,18 +210,18 @@ _AI and Machine Learning related Workshops_
 - [AWS .Net Developer Immersion Day](https://net-immersionday.workshop.aws/)
 - [AWS Database Migration Service SQL 2016](https://www.awslab.io/dotnet/dms/)
 - [AWS for Microsoft Workloads Immersion Day](http://msft-on-aws.corp.amazon.com/)
-- [AWS Windows Workshop (*MULTIPLE MODULES*)](https://aws-labs.net/)
+- [AWS Windows Workshop](https://aws-labs.net/)
 - [Configuring a SQL Server Failover Cluster Instance with Storage Spaces Direct and EBS](https://collaborate-corp.amazon.com/nuxeo/nxdoc/default/0ac28f06-1ba3-42ea-a2c5-bc60fefead14/view_documents)
 - [Creating a Sample RDS SQL Server DB Instance SQL 2008](https://www.awslab.io/sqlserver/lab1/)
-- [DATABASE MIGRATION SERVICE 2008 to Aurora MySql](http://msonaws.com/dms.html)
-- [Database Migration Service Workshop 2008 to Aurora MySql](https://www.awslab.io/sqlserver/lab3/)
+- [Database Migration Service: Microsoft SQL Server 2008 to Aurora MySql](http://msonaws.com/dms.html)
+- [Yet Another Database Migration Service Workshop, Microsoft SQL Server 2008 to Aurora MySql](https://www.awslab.io/sqlserver/lab3/)
 - [Deploying SQL Server to Linux](https://collaborate-corp.amazon.com/nuxeo/nxdoc/default/9ee9b48f-c038-473b-996d-0874ccea1c95/view_documents)
-- [HA Wordpress Workshop (http://webapp-workshop.com/)](http://webapp-workshop.com/)
+- [HA Wordpress Workshop](http://webapp-workshop.com/)
 - [Launching SQL Server on EC2 Windows Win 2016 w/ SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronEC2Windows/)
 - [Launching SQL Server on RDS for SQL Server SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronRDS/)
 - [Microsoft on AWS Development day site](http://msonaws.com/)
-- [MICROSOFT SQL SERVER ALWAYSON ON EC2 WORKSHOP 2 node 2019 AG](http://mssqlec2workshop.awsdocs.net/en/)
-- [MICROSOFT SQL SERVER MODERNIZATION WORKSHOP 2017 to Aurora](http://mssqlmodernization.awsdocs.net/en/)
+- [Microsoft SQL Server AlwaysOn on AWS EC2 - 2 node 2019 AG](http://mssqlec2workshop.awsdocs.net/en/)
+- [Microsoft SQL Server Modernization 2017 to Amazon Aurora](http://mssqlmodernization.awsdocs.net/en/)
 - [Microsoft Workloads Immersion Day](http://msft-on-aws.corp.amazon.com/)
 - [Migrate Windows SQL to Linux 2017 to Ubuntu](https://amazon.awsapps.com/workdocs/index.html#/document/c01669d06db96dc453c6a4313897f279d5a9b3efe541e9968184d922b48c0f51)
 - [Migrate Your First SQL Server Database to Amazon RDS for SQL Server 2014 to RDS](http://mssql2rds.awsdocs.net/)
@@ -242,7 +242,7 @@ _AI and Machine Learning related Workshops_
 - [AWS Identity: Using Amazon Cognito for serverless consumer apps](https://serverless-idm.awssecworkshops.com/)
 - [AWS Protecting Workloads Workshops](http://protecting-workloads.awssecworkshops.com/)
 - [AWS Security Workshops (*MULTIPLE MODULES*)](https://awssecworkshops.com/)
-- [DevSecOps with Snyk (https://snyk.modernize.awsworkshop.io/)](https://snyk.modernize.awsworkshop.io/)
+- [DevSecOps with Snyk](https://snyk.modernize.awsworkshop.io/)
 - [Getting Hands on with Amazon GuardDuty](https://hands-on-guardduty.awssecworkshops.com/)
 - [IAM deep dive](https://identity-round-robin.awssecworkshops.com/)
 - [Scaling threat detection and response in AWS](https://scaling-threat-detection.awssecworkshops.com)
@@ -260,13 +260,12 @@ _AI and Machine Learning related Workshops_
 - [Build a serverless ride-sharing web application](https://webapp.serverlessworkshops.io/)
 - [Building a modern application with CDK](https://github.com/aws-samples/aws-modern-application-workshop/tree/python-cdk)
 - [Chalice Python](https://chalice-workshop.readthedocs.io/en/latest/)
-- [CI and CD and Serverless - Application Catalog](https://application-catalog.serverlessworkshops.io/)
+- [CI/CD and Serverless - Application Catalog](https://application-catalog.serverlessworkshops.io/)
 - [CI/CD Serverless CDK](https://cicd.serverlessworkshops.io/)
 - [CI/CD Serverless CloudFormation](https://v1.cicd.serverlessworkshops.io/)
 - [Collection of Serverless Workshops:](https://github.com/aws-samples/aws-serverless-workshops)
 - [Designing Cloud Native Microservices on AWS](https://github.com/aws-samples/designing-cloud-native-microservices-on-aws/)
 - [Event driven workshop](https://event-driven-architecture.workshop.aws/)
-- [Event Engine:](https://ee-creator-training.immersionday.com/)
 - [Full stack serverless Amplify lab](https://github.com/aws-samples/aws-reinvent-2019-mobile-workshops/tree/master/MOB303)
 - [Innovator Island](https://github.com/aws-samples/aws-serverless-workshop-innovator-island/)
 - [Learn to build fullstack Serverless apps](https://serverless-stack.com/)
@@ -283,7 +282,7 @@ _AI and Machine Learning related Workshops_
 
 - [Amazon Elastic File System](https://github.com/aws-samples/amazon-efs-workshop)
 - [AWS Hybrid Storage Workshop](https://github.com/aws-samples/aws-hybrid-storage-workshop)
-- [Backup](https://specialist-cloudformation-templates.s3-us-west-1.amazonaws.com/pl/aws-backup-loft.pdf)
+- [AWS Backup Workshop](https://specialist-cloudformation-templates.s3-us-west-1.amazonaws.com/pl/aws-backup-loft.pdf)
 - [Caching S3 with ElastiCache for Redis](https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis)
 - [CloudEndure Deep Dive](http://02h.s3-website.eu-central-1.amazonaws.com)
 - [Data Migration (AWS Storage Gateway, AWS Snowball, and AWS DataSync):](http://reinvent2019-data-workshop.s3-website-us-east-1.amazonaws.com/)
@@ -295,7 +294,7 @@ _AI and Machine Learning related Workshops_
 - [FSx for Windows](https://github.com/aws-samples/amazon-fsx-tutorial/tree/master/windows-file-server)
 - [HPC handson FSx for Lustre](https://master.d2fvrafk9v089j.amplifyapp.com/04-amazon-fsx-for-lustre.html)
 - [Maximizing Storage Performance](https://github.com/aws-samples/maximizing-storage-throughput-and-performance)
-- [ONLINE AWS DATA MIGRATIONS FGW, DataSync, sFTP](https://github.com/aws-samples/aws-online-data-migration-workshop)
+- [Online AWS Data Migrations](https://github.com/aws-samples/aws-online-data-migration-workshop)
 - [S3 Security Settings and Controls](https://github.com/aws-samples/amazon-s3-security-settings-and-controls)
 - [Transfer for SFTP Logical Directory demonstration](https://github.com/aws-samples/transfer-for-sftp-logical-directories)
 
