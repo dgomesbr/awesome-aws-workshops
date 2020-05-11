@@ -246,6 +246,7 @@ and rich analytics in easy to use services designed for noisy IoT data._
 - [AWS IoT Analytics](https://github.com/aws-samples/aws-iot-analytics-workshop)
 - [AWS IoT Full Workshop](http://iot.awsworkshops.com/basics/)
 - [AWS IoT Greengrass Bootcamp Advanced](http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/Advanced/Greengrass-Bootcamp_Advanced.html)
+- [AWS IoT Get Started Lab](https://mqttlab.iotsim.io/aws)
 - [AWS IoT Greengrass Bootcamp Starter](https://s3.amazonaws.com/greengrassworkshop/Greengrass-Bootcamp.html)
 - [AWS IoT SiteWise](https://iot-sitewise.workshop.aws/)
 - [IoTAWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
