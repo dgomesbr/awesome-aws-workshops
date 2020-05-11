@@ -4,10 +4,19 @@ site_description: A curated list of awesome public workshops around different ar
 ogimage: http://awesome-aws-workshops.com/assets/img/awesomebg-extra.png
 ogimagealt: Awesome AWS Workshops - Build On!
 ---
-
+<!--
 # Awesome AWS Workshops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+-->
 
-(Unofficial) Curated list of awesome public workshops around different areas. As we have all of those scattered in different locations, the idea is to provide an easy access in a central repository, in a collaborative fashion using a repo. As the repositories listed here are discovered, we'll start including the number of :fontawesome-regular-star: each one received.
+# **Awesome AWS Workshops**
+
+![Awesome AWS Banner](assets/img/awesomebanner.png)
+
+_**(Unofficial)**_ Curated list of awesome workshops around found in the internet.
+As we all have been there, finding that workshop that you have just attended shouldn't be hard.
+The idea is to provide an easy central repository, in a collaborative way.
+
+As the list grows we'll start including the number of :fontawesome-regular-star: and follow any other ideas that you might have for it.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
@@ -71,10 +80,19 @@ _AI and Machine Learning related Workshops_
 
 ## Alexa
 
+_Alexa is Amazon’s cloud-based voice service available on hundreds of millions of devices from Amazon 
+and third-party device manufacturers. With Alexa, you can build natural voice experiences that
+offer customers a more intuitive way to interact with the technology they use every day.
+We offer a collection of tools, APIs, reference solutions, and documentation to make it easier
+to build for Alexa._
+
 - [Alexa - How to build Alexa Skills using AWS Services](https://alexaworkshop.com/)
 - [Alexa Enabled Smart Devices Workshop](https://voice-connected-devices.workshop.aws/en)
 
 ## Application Modernization
+
+_Build a Modern Web Applications on AWS,
+deploy a web application, connect to a database, and analyze user behavior_
 
 - [Application Modernization](https://www.mythicalmysfits.com/)
 - [Decloupled Microservices](https://mainline.d1x1ku9g0a2648.amplifyapp.com/)
@@ -85,27 +103,43 @@ _AI and Machine Learning related Workshops_
 
 ## BlockChain
 
+_Amazon Managed Blockchain eliminates the heavy lifting involved in
+the setup of blockchain networks by reducing 60% of time taken in
+hosting Hyperledger Fabric frameworks._
+
 - [Amazon Managed Blockchain Workshop](https://github.com/aws-samples/non-profit-blockchain)
 
 ## Connect
 
-- [AWS Connect](http://d3p5tieauj4lsq.cloudfront.net/)
+_Amazon Connect is an easy to use omnichannel cloud contact center that helps
+companies provide superior customer service at a lower cost. Over 10 years ago,
+Amazon’s retail business needed a contact center that would give our customers personal,
+dynamic, and natural experiences. We couldn’t find one that met our needs, so we built it._
+
+- [Amazon Connect](http://d3p5tieauj4lsq.cloudfront.net/)
 
 ## Containers
+
+_AWS is the #1 place for you to run containers and 80%
+of all containers in the cloud run on AWS. Customers choose
+to run their containers on AWS because of our security, reliability, and scalability._
 
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
 - [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
-- [Blue Green Deployment with EKS and Kubernetes](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
-- [ECS workshop for Fargate](https://ecsworkshop.com/)
+- [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
+- [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
 - [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io/)
 - [GitOps Helm Workshop](https://helm.workshop.flagger.dev/)
 - [Integrating security into your container pipeline](https://container-devsecops.awssecworkshops.com/)
-- [Introduction to GitOps on EKS with Weaveworks](https://weaveworks-gitops.awsworkshop.io/)
+- [Introduction to GitOps on Amazon EKS with Weaveworks](https://weaveworks-gitops.awsworkshop.io/)
 - [Kubernetes the AWSome Way](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [Mythical Mysfits: A tale of love, loss, and cuddles](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop)
 
 ## Databases and Analytics
+
+_Choose from 15 purpose-built database engines including relational,
+key-value, document, in-memory, graph, time series, and ledger databases._
 
 - [Advanced DynamoDB Design Patterns Lab](https://w.amazon.com/bin/view/Users/Seanshi/DynamoDB)
 - [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
@@ -132,6 +166,8 @@ _AI and Machine Learning related Workshops_
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
 
 ## Development and CI/CD
+_Implement continuous integration and continuous delivery
+with the AWS Developer Tools to accelerate your software development and release cycle._
 
 - [Amazon CodeGuru](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/codeguru/public/en/index.html)
 - [An Introductory Workshop on CI/CD Practices](https://github.com/awslabs/aws-devops-essential)
@@ -146,9 +182,15 @@ _AI and Machine Learning related Workshops_
 
 ## Enterprise Customers
 
+_AWS provides enterprises with multiple ways to consume services
+based on your business needs._
+
 - [SAP HANA on AWS Workshop](https://hdb.labgui.de/)
 
 ## Event Driven
+
+_An event-driven architecture uses events to trigger and communicate
+between decoupled services and is common in modern applications built with microservices._
 
 - [Amazon MQ Workshop](http://mqworkshop.com/)
 - [Amazon MSK](https://amazonmsk-labs.workshop.aws/)
@@ -156,10 +198,20 @@ _AI and Machine Learning related Workshops_
 
 ## HPC
 
+_HPC on AWS removes the long wait times and lost productivity often
+associated with on-premises HPC clusters. Flexible configuration and virtually
+unlimited scalability allow you to grow and shrink your infrastructure as your
+workloads dictate, not the other way around._
+
 - [High Performance Computing on AWS](https://www.hpcworkshops.com/)
 - [ScaleOut Computing on AWS](https://awslabs.github.io/scale-out-computing-on-aws/workshops/)
 
 ## Infrastructure as Code
+
+_Codifying your infrastructure allows you to treat your
+infrastructure as just code. You can author it with any code editor,
+check it into a version control system, and review the files with team
+members before deploying into production._
 
 - [AWS CDK Workshop](https://cdkworkshop.com/)
 - [AWS CloudFormation Best Practices:](http://workshop.quickstart.awspartner.com/)
@@ -167,6 +219,10 @@ _AI and Machine Learning related Workshops_
 - [AWS CloudFormation Workshop](https://cfn101.solution.builders/)
 
 ## Infrastructure
+
+_AWS offers a broad set of global cloud-based products including compute,
+storage, database, analytics, networking, machine learning and AI,
+mobile, developer tools, IoT, security, enterprise applications, and much more._
 
 - [Amazon Lightsail Workshop](https://lightsailworkshop.com/)
 - [Build a migration factory with CloudEndure and Migration Hub](http://ent304.s3-website-us-east-1.amazonaws.com/)
@@ -181,6 +237,10 @@ _AI and Machine Learning related Workshops_
 
 ## IoT
 
+_AWS has broad and deep IoT services, from the edge to the cloud.
+AWS IoT is the only cloud vendor to bring together data management
+and rich analytics in easy to use services designed for noisy IoT data._
+
 - [AWS IoT Analytics](https://github.com/aws-samples/aws-iot-analytics-workshop)
 - [AWS IoT Full Workshop](http://iot.awsworkshops.com/basics/)
 - [AWS IoT Greengrass Bootcamp Advanced](http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/Advanced/Greengrass-Bootcamp_Advanced.html)
@@ -189,6 +249,11 @@ _AI and Machine Learning related Workshops_
 - [IoTAWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
 
 ## Management Tools and Governance
+
+_In the past, organizations have had to choose between innovating
+faster and maintaining control over cost, compliance, and security.
+With AWS Management and Governance services, customers don’t have to
+choose between innovation and control—they can have both._
 
 - [Amazon CloudWatch](https://ako.aws-management.tools/tko372759/en/cw.html)
 - [AWS Control Tower workshop](https://controltower.aws-management.tools/)
@@ -200,11 +265,18 @@ _AI and Machine Learning related Workshops_
 
 ## Media
 
+_AWS brings highly scalable, elastic and secure cloud services
+to content production, storage, processing, and distribution._
+
 - [Setup Sports Event Video Live Streaming and Build an Instant Replay WebApp](https://d2spul8y87c3g5.cloudfront.net/)
 - [UnicornFlix Building a VideoonDemand App Using AWS Amplify and AWS Media Services](https://github.com/awslabs/unicornflix)
 - [UnicornTrivia Building a Live Trivia Mobile App Using AWS AppSync, AWS Amplify and AWS Media Services](https://github.com/awslabs/aws-amplify-unicorntrivia-workshop)
 
 ## Microsoft
+
+_Amazon Web Services offers a broad set of global compute,
+database, application, and deployment services that use
+Microsoft technologies or are designed to work with Microsoft technologies._
 
 - [Amazon FSx Workshop](https://github.com/aws-samples/amazon-fsx-workshop)
 - [AWS .Net Developer Immersion Day](https://net-immersionday.workshop.aws/)
@@ -231,12 +303,22 @@ _AI and Machine Learning related Workshops_
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://master.d1pty6a5yrjl5y.amplifyapp.com/build-ms-sql-cluster-linux/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://www.ec2mssqlworkshop.com)
 
-## Networking
+## Network
+
+_AWS delivers the highest network availability of any cloud provider,
+with 3x fewer down time hours from networking issues than the next
+largest cloud provider._
 
 - [IPV6](https://net207-ipv6networking.workshop.aws/)
 - [Networking Workshop - Transit Gateway and Traffic Mirroring](https://www.networking-workshop.com/#/)
 
 ## Security
+
+_With AWS, you can improve your ability to meet core security
+and compliance requirements, such as data locality, protection,
+and confidentiality with our comprehensive services and features.
+AWS allows you to automate manual security tasks so you can shift
+your focus to scaling and innovating your business._
 
 - [Adding Security into DevOps](https://devops.awssecworkshops.com/)
 - [AWS Identity: Using Amazon Cognito for serverless consumer apps](https://serverless-idm.awssecworkshops.com/)
@@ -250,6 +332,10 @@ _AI and Machine Learning related Workshops_
 - [Security Automation](https://louay-workshops.com.au/security_automation.html)
 
 ## Serverless
+
+_Serverless is the native architecture of the
+cloud that enables you to shift more of your operational
+responsibilities to AWS, increasing your agility and innovation._
 
 - [Alien Attack](https://alienattack.workshop.aws/)
 - [Amplify and React](http://aws-react-amplify.ws.kabits.com/)
@@ -279,6 +365,12 @@ _AI and Machine Learning related Workshops_
 - [Well Architected](https://wellarchitectedlabs.com/)
 
 ## Storage
+
+_AWS offers a complete range of services for you to store, access,
+govern, and analyze your data to reduce costs, increase agility,
+and accelerate innovation. Select from object storage, file storage,
+and block storage services, backup, and data migration options to build
+the foundation of your cloud IT environment._
 
 - [Amazon Elastic File System](https://github.com/aws-samples/amazon-efs-workshop)
 - [AWS Hybrid Storage Workshop](https://github.com/aws-samples/aws-hybrid-storage-workshop)
