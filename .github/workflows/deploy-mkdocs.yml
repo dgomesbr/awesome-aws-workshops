@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name ${{ secrets.GH_USER }}
           git config user.email "${{ secrets.GH_MAIL }}"
-          git remote add gh-token "https://${{ secrets.GH_TOKEN}}@github.com/username/myrepo.git"
+          git remote add gh-token "https://${{ secrets.GITHUB_TOKEN}}@github.com/username/myrepo.git"
           git fetch gh-token && git fetch gh-token gh-pages:gh-pages
           python -m mkdocs gh-deploy --clean --remote-name gh-token
           git push gh-token gh-pages
