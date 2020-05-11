@@ -334,6 +334,8 @@ your focus to scaling and innovating your business._
 - [Scaling threat detection and response in AWS](https://scaling-threat-detection.awssecworkshops.com)
 - [Securing Serverless Workloads](https://github.com/aws-samples/aws-serverless-security-workshop/blob/master/README.md)
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
+- [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
+
 
 ## Serverless
 
