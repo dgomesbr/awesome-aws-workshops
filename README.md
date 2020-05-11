@@ -338,7 +338,6 @@ your focus to scaling and innovating your business._
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
 
-
 ## Serverless
 
 _Serverless is the native architecture of the
