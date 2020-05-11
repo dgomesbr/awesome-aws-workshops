@@ -12,7 +12,7 @@ ogimagealt: Awesome AWS Workshops - Build On!
 
 ![Awesome AWS Banner](assets/img/awesomebanner.png)
 
-_**(Unofficial)**_ Curated list of awesome workshops around found in the internet.
+_**(Unofficial)**_ Curated list of awesome workshops found around in the internet.
 As we all have been there, finding that workshop that you have just attended shouldn't be hard.
 The idea is to provide an easy central repository, in a collaborative way.
 
