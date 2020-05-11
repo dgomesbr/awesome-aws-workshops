@@ -143,7 +143,6 @@ to run their containers on AWS because of our security, reliability, and scalabi
 _Choose from 15 purpose-built database engines including relational,
 key-value, document, in-memory, graph, time series, and ledger databases._
 
-- [Advanced DynamoDB Design Patterns Lab](https://w.amazon.com/bin/view/Users/Seanshi/DynamoDB)
 - [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
 - [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
 - [Amazon Aurora Labs for PostgreSQL](https://awsauroralabspostgres.com/)
@@ -180,7 +179,7 @@ with the AWS Developer Tools to accelerate your software development and release
 - [CI/CD with Fargate](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-fargate-bg-workshop/public/en/index.html)
 - [CI/CD with Jenkins](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/jenkins-ws/public/en/index.html)
 - [Continuous Deployment on AWS Workshop](https://cd.labgui.de/)
-- [Operations in CI/CD](https://louay-workshops.com.au/operations.html)
+- [Operations in CI/CD](https://louay-workshops.com.au/security-automation-workshop.html)
 
 ## End User Computing
 
@@ -253,7 +252,6 @@ AWS IoT is the only cloud vendor to bring together data management
 and rich analytics in easy to use services designed for noisy IoT data._
 
 - [AWS IoT Analytics](https://github.com/aws-samples/aws-iot-analytics-workshop)
-- [AWS IoT Full Workshop](http://iot.awsworkshops.com/basics/)
 - [AWS IoT Greengrass Bootcamp Advanced](http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/Advanced/Greengrass-Bootcamp_Advanced.html)
 - [AWS IoT Greengrass Bootcamp Starter](https://s3.amazonaws.com/greengrassworkshop/Greengrass-Bootcamp.html)
 - [AWS IoT SiteWise](https://iot-sitewise.workshop.aws/)
@@ -292,21 +290,16 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 - [Amazon FSx Workshop](https://github.com/aws-samples/amazon-fsx-workshop)
 - [AWS .Net Developer Immersion Day](https://net-immersionday.workshop.aws/)
 - [AWS Database Migration Service SQL 2016](https://www.awslab.io/dotnet/dms/)
-- [AWS for Microsoft Workloads Immersion Day](http://msft-on-aws.corp.amazon.com/)
 - [AWS Windows Workshop](https://aws-labs.net/)
-- [Configuring a SQL Server Failover Cluster Instance with Storage Spaces Direct and EBS](https://collaborate-corp.amazon.com/nuxeo/nxdoc/default/0ac28f06-1ba3-42ea-a2c5-bc60fefead14/view_documents)
 - [Creating a Sample RDS SQL Server DB Instance SQL 2008](https://www.awslab.io/sqlserver/lab1/)
 - [Database Migration Service: Microsoft SQL Server 2008 to Aurora MySql](http://msonaws.com/dms.html)
 - [Yet Another Database Migration Service Workshop, Microsoft SQL Server 2008 to Aurora MySql](https://www.awslab.io/sqlserver/lab3/)
-- [Deploying SQL Server to Linux](https://collaborate-corp.amazon.com/nuxeo/nxdoc/default/9ee9b48f-c038-473b-996d-0874ccea1c95/view_documents)
-- [HA Wordpress Workshop](http://webapp-workshop.com/)
+- [HA Wordpress Workshop](http://webapp-workshop.com/)  
 - [Launching SQL Server on EC2 Windows Win 2016 w/ SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronEC2Windows/)
 - [Launching SQL Server on RDS for SQL Server SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronRDS/)
 - [Microsoft on AWS Development day site](http://msonaws.com/)
 - [Microsoft SQL Server AlwaysOn on AWS EC2 - 2 node 2019 AG](http://mssqlec2workshop.awsdocs.net/en/)
 - [Microsoft SQL Server Modernization 2017 to Amazon Aurora](http://mssqlmodernization.awsdocs.net/en/)
-- [Microsoft Workloads Immersion Day](http://msft-on-aws.corp.amazon.com/)
-- [Migrate Windows SQL to Linux 2017 to Ubuntu](https://amazon.awsapps.com/workdocs/index.html#/document/c01669d06db96dc453c6a4313897f279d5a9b3efe541e9968184d922b48c0f51)
 - [Migrate Your First SQL Server Database to Amazon RDS for SQL Server 2014 to RDS](http://mssql2rds.awsdocs.net/)
 - [Migrate Your First SQL Server Database to Amazon RDS for SQL Server using Backup/Restore 2008 to RDS](https://www.awslab.io/sqlserver/lab2/)
 - [Migrating (DMS) a SQL Server Database to Aurora (MySQL) 2008 to Aurora](http://mssql2aurora.awsdocs.net/)
@@ -368,7 +361,6 @@ responsibilities to AWS, increasing your agility and innovation._
 - [Learn to build fullstack Serverless apps](https://serverless-stack.com/)
 - [Monolith to Microservices Workshop](https://github.com/aws-samples/unishop-monolith-to-microservices)
 - [PhotoSharing Web App with AWS Amplify and AWS AppSync](https://amplify-workshop.go-aws.com/)
-- [Serverless Atlas (many resources and information)](https://atlas.serverless.tech-field-community.aws.a2z.com/resources/Workshops.html)
 - [Serverless image process workshop](https://image-processing.serverlessworkshops.io/)
 - [Step Functions](https://step-functions-workshop.go-aws.com/)
 - [Unicorn Flix:](https://github.com/awslabs/unicornflix)
