@@ -126,11 +126,12 @@ _AWS is the #1 place for you to run containers and 80%
 of all containers in the cloud run on AWS. Customers choose
 to run their containers on AWS because of our security, reliability, and scalability._
 
+- [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
 - [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 - [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
-- [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
+- [Container Security](https://container-devsecops.awssecworkshops.com/)
 - [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io/)
 - [GitOps Helm Workshop](https://helm.workshop.flagger.dev/)
 - [Integrating security into your container pipeline](https://container-devsecops.awssecworkshops.com/)
