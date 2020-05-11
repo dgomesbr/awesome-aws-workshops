@@ -403,4 +403,4 @@ We will keep pull requests open so you can [vote for them](https://github.com/dg
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me [@dgomesbr](https://twitter.com/dgomesbr) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact [@dgomesbr](https://twitter.com/dgomesbr) on Twitter, [Enrico Bergamo](https://www.linkedin.com/in/enricosbergamo) on LinkedIn, or open an issue on GitHub.
