@@ -72,7 +72,6 @@ related Workshops_
 - [Build, train, debug, deploy and monitor with SageMaker](https://github.com/aws-samples/reinvent2019-aim362-sagemaker-debugger-model-monitor)
 - [Getting started with Amazon SageMaker](https://www.getstartedonsagemaker.com/workshop/)
 - [How to prevent misdiagnosis of breast diseases using Amazon SageMaker, Amazon SageMaker Ground Truth and AWS Step Functions:](https://github.com/mravanini/mammography-workshop)
-- [IoT/Greengrass/Analytics/Edge](https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-workshop)
 - [Machine Learning Data Lake Workshop](https://github.com/aws-samples/aws-ml-data-lake-workshop)
 - [Machine Learning with AWS Glue and Amazon SageMaker Lab: Build, Train, and Deploy a Text Classification Model](https://d3doqww75uq74w.cloudfront.net/lab/index.html)
 - [Parse JSON response of Amazon Textract](https://github.com/aws-samples/amazon-textract-response-parser)
@@ -153,7 +152,6 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Amazon RDS Purpose Built](https://github.com/aws-samples/amazon-rds-purpose-built-workshop)
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
 - [AWS Database Migration Workshop](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
-- [AWS IOT Analytics Workshop](https://s3.amazonaws.com/iotareinvent18/Workshop.html)
 - [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
 - [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
@@ -173,7 +171,6 @@ answers from all your data to all your users_
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
-
 
 ## Development and CI/CD
 
@@ -261,11 +258,13 @@ _AWS has broad and deep IoT services, from the edge to the cloud.
 AWS IoT is the only cloud vendor to bring together data management
 and rich analytics in easy to use services designed for noisy IoT data._
 
+- [AWS IOT Analytics Workshop](https://s3.amazonaws.com/iotareinvent18/Workshop.html)
 - [AWS IoT Analytics](https://github.com/aws-samples/aws-iot-analytics-workshop)
 - [AWS IoT Greengrass Bootcamp Advanced](http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/Advanced/Greengrass-Bootcamp_Advanced.html)
 - [AWS IoT Greengrass Bootcamp Starter](https://s3.amazonaws.com/greengrassworkshop/Greengrass-Bootcamp.html)
 - [AWS IoT SiteWise](https://iot-sitewise.workshop.aws/)
-- [IoTAWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
+- [AWS IoT/Greengrass/Analytics/Edge](https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-workshop)
+- [AWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
 
 ## Management Tools and Governance
 
