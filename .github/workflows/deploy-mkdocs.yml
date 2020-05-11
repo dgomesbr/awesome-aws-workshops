@@ -1,16 +1,6 @@
 name: deploy
 
-on:
-  push:
-    paths: 
-    - 'docs/**'
-    - '**.yml'
-    - 
-    branches:
-    - master
-  pull_request:
-     branches:
-      - master
+on: [push, pull_request]
 
 jobs:
   deploy:
@@ -27,15 +17,16 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip setuptools
-          python -m pip install -r requirements.txt
-      - name: Deploy Files
-        run: |
-          git config user.name ${{ secrets.GH_USER }}
-          git config user.email "${{ secrets.GH_MAIL }}"
-          git remote add gh-token "https://${{ secrets.GITHUB_TOKEN}}@github.com/username/myrepo.git"
-          git fetch gh-token && git fetch gh-token gh-pages:gh-pages
-          python -m mkdocs gh-deploy --clean --remote-name gh-token
-          git push gh-token gh-pages
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Build mkdocs
+        run: mkdocs build
+
+      - name: GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v1.3.0
+        with:
+          build_dir: site
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
