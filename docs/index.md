@@ -30,7 +30,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [BlockChain](#blockchain)
   - [Connect](#connect)
   - [Containers](#containers)
-  - [Databases and Analytics](#databases-and-analytics)
+  - [Databases](#databases)
+  - [DataLake and Analytics](#datalakes-and-analytics)
   - [Development and CI/CD](#development-and-cicd)
   - [End User Computing](#end-user-computing)
   - [Enterprise Customers](#enterprise-customers)
@@ -71,7 +72,6 @@ related Workshops_
 - [Build, train, debug, deploy and monitor with SageMaker](https://github.com/aws-samples/reinvent2019-aim362-sagemaker-debugger-model-monitor)
 - [Getting started with Amazon SageMaker](https://www.getstartedonsagemaker.com/workshop/)
 - [How to prevent misdiagnosis of breast diseases using Amazon SageMaker, Amazon SageMaker Ground Truth and AWS Step Functions:](https://github.com/mravanini/mammography-workshop)
-- [IoT/Greengrass/Analytics/Edge](https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-workshop)
 - [Machine Learning Data Lake Workshop](https://github.com/aws-samples/aws-ml-data-lake-workshop)
 - [Machine Learning with AWS Glue and Amazon SageMaker Lab: Build, Train, and Deploy a Text Classification Model](https://d3doqww75uq74w.cloudfront.net/lab/index.html)
 - [Parse JSON response of Amazon Textract](https://github.com/aws-samples/amazon-textract-response-parser)
@@ -126,11 +126,12 @@ _AWS is the #1 place for you to run containers and 80%
 of all containers in the cloud run on AWS. Customers choose
 to run their containers on AWS because of our security, reliability, and scalability._
 
+- [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
 - [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 - [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
-- [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
+- [Container Security](https://container-devsecops.awssecworkshops.com/)
 - [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io/)
 - [GitOps Helm Workshop](https://helm.workshop.flagger.dev/)
 - [Integrating security into your container pipeline](https://container-devsecops.awssecworkshops.com/)
@@ -138,30 +139,35 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Kubernetes the AWSome Way](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [Mythical Mysfits: A tale of love, loss, and cuddles](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop)
 
-## Databases and Analytics
+## Databases
 
 _Choose from 15 purpose-built database engines including relational,
 key-value, document, in-memory, graph, time series, and ledger databases._
 
 - [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
-- [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
 - [Amazon Aurora Labs for PostgreSQL](https://awsauroralabspostgres.com/)
-- [Amazon Dynamodb Labs](https://amazon-dynamodb-labs.com/)
+- [Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/)
 - [Amazon Elasticsearch Workshops](https://deh4m73phis7u.cloudfront.net/log-analytics/mainlab/)
 - [Amazon RDS Purpose Built](https://github.com/aws-samples/amazon-rds-purpose-built-workshop)
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
-- [Athena](https://athena-in-action.workshop.aws/)
 - [AWS Database Migration Workshop](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
-- [AWS IOT Analytics Workshop](https://s3.amazonaws.com/iotareinvent18/Workshop.html)
+- [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
+- [PostgreSQL Training](http://pg-au.com/training_decks.html)
+- [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
+
+## Datalakes and Analytics
+
+_Data Lakes and Analytics on AWS is the fastest way to get
+answers from all your data to all your users_
+
+- [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
+- [Athena](https://athena-in-action.workshop.aws/)
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
 - [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
 - [DMS](https://dms-immersionday.workshop.aws/)
 - [Incremental Data Processing On Amazon EMR (apache Hudi)](https://incremental-data-processing-on-amazonemr.workshop.aws/en)
-- [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
-- [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
-- [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
 
@@ -251,11 +257,13 @@ _AWS has broad and deep IoT services, from the edge to the cloud.
 AWS IoT is the only cloud vendor to bring together data management
 and rich analytics in easy to use services designed for noisy IoT data._
 
+- [AWS IOT Analytics Workshop](https://s3.amazonaws.com/iotareinvent18/Workshop.html)
 - [AWS IoT Analytics](https://github.com/aws-samples/aws-iot-analytics-workshop)
 - [AWS IoT Greengrass Bootcamp Advanced](http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/Advanced/Greengrass-Bootcamp_Advanced.html)
 - [AWS IoT Greengrass Bootcamp Starter](https://s3.amazonaws.com/greengrassworkshop/Greengrass-Bootcamp.html)
 - [AWS IoT SiteWise](https://iot-sitewise.workshop.aws/)
-- [IoTAWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
+- [AWS IoT/Greengrass/Analytics/Edge](https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-workshop)
+- [AWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
 
 ## Management Tools and Governance
 
@@ -334,6 +342,7 @@ your focus to scaling and innovating your business._
 - [Scaling threat detection and response in AWS](https://scaling-threat-detection.awssecworkshops.com)
 - [Securing Serverless Workloads](https://github.com/aws-samples/aws-serverless-security-workshop/blob/master/README.md)
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
+- [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
 
 ## Serverless
 
@@ -361,6 +370,7 @@ responsibilities to AWS, increasing your agility and innovation._
 - [Learn to build fullstack Serverless apps](https://serverless-stack.com/)
 - [Monolith to Microservices Workshop](https://github.com/aws-samples/unishop-monolith-to-microservices)
 - [PhotoSharing Web App with AWS Amplify and AWS AppSync](https://amplify-workshop.go-aws.com/)
+- [Serverless Data Prep with AWS Glue](https://s3.amazonaws.com/ant313/ANT313.html)
 - [Serverless image process workshop](https://image-processing.serverlessworkshops.io/)
 - [Step Functions](https://step-functions-workshop.go-aws.com/)
 - [Unicorn Flix:](https://github.com/awslabs/unicornflix)
@@ -403,4 +413,4 @@ We will keep pull requests open so you can [vote for them](https://github.com/dg
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact [@dgomesbr](https://twitter.com/dgomesbr) on Twitter, [Enrico Bergamo](https://www.linkedin.com/in/enrico.s.bergamo) on LinkedIn, or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact [@dgomesbr](https://twitter.com/dgomesbr) on Twitter, [Enrico Bergamo](https://www.linkedin.com/in/enricosbergamo) on LinkedIn, or open an issue on GitHub.

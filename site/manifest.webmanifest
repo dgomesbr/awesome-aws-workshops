@@ -1,0 +1,23 @@
+{
+  "name": "AWSome AWS Workshops",
+  "short_name": "AWS Workshops",
+  "description": "Curated list of Awesome AWS Workshops found around the internet.",
+  "icons": [
+    {
+      "src": "/assets/img/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#FFA724",
+  "display": "fullscreen",
+  "scope": "/",
+  "lang": "en-US",
+  "theme_color": "#FFA724"
+}
