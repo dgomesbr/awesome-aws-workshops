@@ -30,7 +30,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [BlockChain](#blockchain)
   - [Connect](#connect)
   - [Containers](#containers)
-  - [Databases and Analytics](#databases-and-analytics)
+  - [Databases](#databases)
+  - [DataLake and Analytics](#datalakes-and-analytics)
   - [Development and CI/CD](#development-and-cicd)
   - [End User Computing](#end-user-computing)
   - [Enterprise Customers](#enterprise-customers)
@@ -139,7 +140,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Kubernetes the AWSome Way](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [Mythical Mysfits: A tale of love, loss, and cuddles](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop)
 
-## Databases and Analytics
+## Databases
 
 _Choose from 15 purpose-built database engines including relational,
 key-value, document, in-memory, graph, time series, and ledger databases._
@@ -149,23 +150,30 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Amazon Aurora Labs for PostgreSQL](https://awsauroralabspostgres.com/)
 - [Amazon Dynamodb Labs](https://amazon-dynamodb-labs.com/)
 - [Amazon Elasticsearch Workshops](https://deh4m73phis7u.cloudfront.net/log-analytics/mainlab/)
-- [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
 - [Amazon RDS Purpose Built](https://github.com/aws-samples/amazon-rds-purpose-built-workshop)
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
-- [Athena](https://athena-in-action.workshop.aws/)
 - [AWS Database Migration Workshop](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
 - [AWS IOT Analytics Workshop](https://s3.amazonaws.com/iotareinvent18/Workshop.html)
+- [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
+- [PostgreSQL Training](http://pg-au.com/training_decks.html)
+- [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
+
+## Datalakes and Analytics
+
+_Data Lakes and Analytics on AWS is the fastest way to get
+answers from all your data to all your users_
+
+- [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
+- [Athena](https://athena-in-action.workshop.aws/)
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
 - [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
 - [DMS](https://dms-immersionday.workshop.aws/)
 - [Incremental Data Processing On Amazon EMR (apache Hudi)](https://incremental-data-processing-on-amazonemr.workshop.aws/en)
-- [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
-- [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
-- [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
+
 
 ## Development and CI/CD
 
