@@ -377,7 +377,7 @@ the foundation of your cloud IT environment._
 - [AWS Backup Workshop](https://specialist-cloudformation-templates.s3-us-west-1.amazonaws.com/pl/aws-backup-loft.pdf)
 - [Caching S3 with ElastiCache for Redis](https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis)
 - [CloudEndure Deep Dive](http://02h.s3-website.eu-central-1.amazonaws.com)
-- [Data Migration (AWS Storage Gateway, AWS Snowball, and AWS DataSync):](http://reinvent2019-data-workshop.s3-website-us-east-1.amazonaws.com/)
+- [Data Migration (AWS Storage Gateway, AWS Snowball, and AWS DataSync)](http://reinvent2019-data-workshop.s3-website-us-east-1.amazonaws.com/)
 - [Data migration workshop, 10K small file scenario (S3 script, FGW, DataSync & Transfer SFTP)](http://a.co/51cKtdv)
 - [DataSync and File Gateway](https://github.com/aws-samples/aws-datasync-migration-workshop)
 - [EFS Performance, Scaleout, Monitoring, Incloud Transfer](https://github.com/darrylsosborne/amazon-efs-workshop)
