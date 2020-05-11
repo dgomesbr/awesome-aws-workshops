@@ -351,7 +351,7 @@ responsibilities to AWS, increasing your agility and innovation._
 - [CI/CD and Serverless - Application Catalog](https://application-catalog.serverlessworkshops.io/)
 - [CI/CD Serverless CDK](https://cicd.serverlessworkshops.io/)
 - [CI/CD Serverless CloudFormation](https://v1.cicd.serverlessworkshops.io/)
-- [Collection of Serverless Workshops:](https://github.com/aws-samples/aws-serverless-workshops)
+- [Collection of Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops)
 - [Designing Cloud Native Microservices on AWS](https://github.com/aws-samples/designing-cloud-native-microservices-on-aws/)
 - [Event driven workshop](https://event-driven-architecture.workshop.aws/)
 - [Full stack serverless Amplify lab](https://github.com/aws-samples/aws-reinvent-2019-mobile-workshops/tree/master/MOB303)
