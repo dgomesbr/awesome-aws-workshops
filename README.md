@@ -154,7 +154,6 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [AWS Database Migration Workshop](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
 - [AWS IOT Analytics Workshop](https://s3.amazonaws.com/iotareinvent18/Workshop.html)
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
-- [Big Data Workshop](https://code.amazon.com/packages/Big-data-workshop/trees/mainline)
 - [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
 - [DMS](https://dms-immersionday.workshop.aws/)
