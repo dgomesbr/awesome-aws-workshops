@@ -18,9 +18,9 @@ theme:
   palette:
     primary: orange
     accent: indigo
-  favicon: assets/img/favicon.png
+  favicon: assets/img/favicon.ico
   icon:
-    logo: material/aws
+    logo: material/cloud
     repo: material/git
 extra:
   social:
