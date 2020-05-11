@@ -20,8 +20,8 @@ jobs:
       - name: Install packages
         run: pip install -r requirements.txt
 
-      - name: Build mkdocs
-        run: mkdocs build
+      - name: Build and link
+        run: make site_build
 
       - name: GitHub Pages
         if: success()
