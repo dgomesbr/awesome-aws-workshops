@@ -149,6 +149,7 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Amazon Aurora Labs for PostgreSQL](https://awsauroralabspostgres.com/)
 - [Amazon Dynamodb Labs](https://amazon-dynamodb-labs.com/)
 - [Amazon Elasticsearch Workshops](https://deh4m73phis7u.cloudfront.net/log-analytics/mainlab/)
+- [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
 - [Amazon RDS Purpose Built](https://github.com/aws-samples/amazon-rds-purpose-built-workshop)
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
 - [Athena](https://athena-in-action.workshop.aws/)
