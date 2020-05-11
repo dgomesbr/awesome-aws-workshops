@@ -50,7 +50,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## AI and ML
 
-_AI and Machine Learning related Workshops_
+_AI and Machine Learning
+related Workshops_
 
 - [AI Workshop](https://github.com/samir-souza/ai-workshop)
 - [AI/ML Workshops](https://github.com/drandrewkane/AI_ML_Workshops)
@@ -80,7 +81,7 @@ _AI and Machine Learning related Workshops_
 
 ## Alexa
 
-_Alexa is Amazon’s cloud-based voice service available on hundreds of millions of devices from Amazon 
+_Alexa is Amazon’s cloud-based voice service available on hundreds of millions of devices from Amazon
 and third-party device manufacturers. With Alexa, you can build natural voice experiences that
 offer customers a more intuitive way to interact with the technology they use every day.
 We offer a collection of tools, APIs, reference solutions, and documentation to make it easier
@@ -166,6 +167,7 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
 
 ## Development and CI/CD
+
 _Implement continuous integration and continuous delivery
 with the AWS Developer Tools to accelerate your software development and release cycle._
 
