@@ -32,6 +32,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Containers](#containers)
   - [Databases and Analytics](#databases-and-analytics)
   - [Development and CI/CD](#development-and-cicd)
+  - [End User Computing](#end-user-computing)
   - [Enterprise Customers](#enterprise-customers)
   - [Event Driven](#event-driven)
   - [HPC](#hpc)
@@ -180,6 +181,15 @@ with the AWS Developer Tools to accelerate your software development and release
 - [CI/CD with Jenkins](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/jenkins-ws/public/en/index.html)
 - [Continuous Deployment on AWS Workshop](https://cd.labgui.de/)
 - [Operations in CI/CD](https://louay-workshops.com.au/operations.html)
+
+## End User Computing
+
+_Today's workforce is increasingly mobile. They're working remotely, on the go, and moving from one project to the next.
+And, they're collaborating across borders, time zones, and organizations. We built AWS End User Computing (EUC) services
+to give you the agility to respond to the changing needs of your workforce._
+
+- [AppStream 2.0 ISV workshop](https://aws.amazon.com/appstream2/getting-started/isv-workshops/)
+- [AppStream 2.0 Enterprise Application Onboarding workshop](https://aws.amazon.com/appstream2/getting-started/ent-workshops/)
 
 ## Enterprise Customers
 
