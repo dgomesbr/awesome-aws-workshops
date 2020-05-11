@@ -3,7 +3,9 @@ repo_name: dgomesbr/awesome-aws-workshops
 repo_url: https://github.com/dgomesbr/awesome-aws-workshops
 edit_uri: "" # disable edit icon from theme
 site_author: Diego Magalhaes, Enrico Bergamo
-copyright: This is NOT an official AWS website and has no affiliation with Amazon Web Services.<br> Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
+#copyright: This is NOT an official AWS website and has no affiliation with Amazon Web Services.<br> Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
+copyright: This is NOT an official AWS website and has no affiliation with Amazon Web Services.<br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 extra_css:
   - assets/css/extra.css
 nav:
