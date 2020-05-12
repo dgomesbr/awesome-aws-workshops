@@ -350,6 +350,7 @@ _Serverless is the native architecture of the
 cloud that enables you to shift more of your operational
 responsibilities to AWS, increasing your agility and innovation._
 
+- [.Net Serverless Lambda](http://msonaws.com/lambda.html)
 - [Alien Attack](https://alienattack.workshop.aws/)
 - [Amplify and React](http://aws-react-amplify.ws.kabits.com/)
 - [Amplify predictions workshop](https://github.com/mlabieniec/IonicPredictions)
