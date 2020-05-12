@@ -1,6 +1,6 @@
 ---
 title: Awesome AWS Workshops - Build On!
-site_description: A curated list of awesome public workshops around different areas. 
+site_description: A curated list of awesome public workshops around different areas.
 ogimage: http://awesome-aws-workshops.com/assets/img/awesomebg-extra.png
 ogimagealt: Awesome AWS Workshops - Build On!
 ---
@@ -43,6 +43,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Management Tools and Governance](#management-tools-and-governance)
   - [Media](#media)
   - [Microsoft](#microsoft)
+  - [Migration](#migration)
   - [Networking](#networking)
   - [Security](#security)
   - [Serverless](#serverless)
@@ -314,6 +315,13 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 - [Migrating a SQL Server Database to SQL Server on Amazon EC2 2014 to EC2](http://mssql2ec2.awsdocs.net/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://master.d1pty6a5yrjl5y.amplifyapp.com/build-ms-sql-cluster-linux/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://www.ec2mssqlworkshop.com)
+
+## Migration
+
+_AWS has the most experience helping all types of organizations migrate to the cloud. Our comprehensive portfolio of AWS migration tools and our mature third-party migration tooling ecosystem provide automation and intelligent recommendations based on AWS machine learning to simplify and accelerate each step of the migration process._
+
+- [Application Migration with AWS](https://github.com/aws-samples/application-migration-with-aws-workshop)
+- [Zero Downtime Migrations to AWS](https://zero-downtime-migrations.workshop.aws/en)
 
 ## Network
 
