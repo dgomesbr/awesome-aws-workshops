@@ -144,7 +144,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 _Choose from 15 purpose-built database engines including relational,
 key-value, document, in-memory, graph, time series, and ledger databases._
 
-- [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
+- [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/).
 - [Amazon Aurora Labs for PostgreSQL](https://awsauroralabspostgres.com/)
 - [Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/)
 - [Amazon Elasticsearch Workshops](https://deh4m73phis7u.cloudfront.net/log-analytics/mainlab/)
