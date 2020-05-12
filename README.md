@@ -73,6 +73,7 @@ related Workshops_
 - [Build, train, debug, deploy and monitor with SageMaker](https://github.com/aws-samples/reinvent2019-aim362-sagemaker-debugger-model-monitor)
 - [Getting started with Amazon SageMaker](https://www.getstartedonsagemaker.com/workshop/)
 - [How to prevent misdiagnosis of breast diseases using Amazon SageMaker, Amazon SageMaker Ground Truth and AWS Step Functions:](https://github.com/mravanini/mammography-workshop)
+- [Index your pile of papers with Amazon Textract, Amazon Comprehend and Amazon Elasticsearch Service](https://github.com/aws-samples/workshop-textract-comprehend-es/)
 - [Machine Learning Data Lake Workshop](https://github.com/aws-samples/aws-ml-data-lake-workshop)
 - [Machine Learning with AWS Glue and Amazon SageMaker Lab: Build, Train, and Deploy a Text Classification Model](https://d3doqww75uq74w.cloudfront.net/lab/index.html)
 - [Parse JSON response of Amazon Textract](https://github.com/aws-samples/amazon-textract-response-parser)
