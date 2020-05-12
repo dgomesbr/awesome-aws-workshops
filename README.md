@@ -65,6 +65,7 @@ related Workshops_
 - [Amazon Textract Code Samples](https://github.com/aws-samples/amazon-textract-code-samples)
 - [Amazon Textract Enhancer](https://github.com/aws-samples/amazon-textract-enhancer)
 - [Analyze documents with Amazon Textract and generate output in multiple formats](https://github.com/aws-samples/amazon-textract-textractor)
+- [Index your pile of papers with Amazon Textract, Amazon Comprehend and Amazon Elasticsearch Service](https://github.com/aws-samples/workshop-textract-comprehend-es/)
 - [AWS AI Services Workshop Series](https://ai-services.go-aws.com)
 - [AWS DeepComposer labs](https://github.com/aws-samples/aws-deepcomposer-samples)
 - [AWS DeepLens Workshop](https://github.com/mahendrabairagi/DeeplensWorkshop)
