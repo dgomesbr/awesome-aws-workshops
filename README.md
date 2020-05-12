@@ -265,6 +265,7 @@ and rich analytics in easy to use services designed for noisy IoT data._
 - [AWS IoT SiteWise](https://iot-sitewise.workshop.aws/)
 - [AWS IoT/Greengrass/Analytics/Edge](https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-workshop)
 - [AWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
+- [PARTNER - MIMIC MQTT lab integration with AWS IoT Core](https://mqttlab.iotsim.io/aws)
 
 ## Management Tools and Governance
 
