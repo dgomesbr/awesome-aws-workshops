@@ -1,6 +1,6 @@
 ---
 title: Awesome AWS Workshops - Build On!
-site_description: A curated list of awesome public workshops around different areas. 
+site_description: A curated list of awesome public workshops around different areas.
 ogimage: http://awesome-aws-workshops.com/assets/img/awesomebg-extra.png
 ogimagealt: Awesome AWS Workshops - Build On!
 ---
