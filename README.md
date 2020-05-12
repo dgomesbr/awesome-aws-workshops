@@ -43,6 +43,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Management Tools and Governance](#management-tools-and-governance)
   - [Media](#media)
   - [Microsoft](#microsoft)
+  - [Migration](#migration)
   - [Networking](#networking)
   - [Security](#security)
   - [Serverless](#serverless)
@@ -315,6 +316,20 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://master.d1pty6a5yrjl5y.amplifyapp.com/build-ms-sql-cluster-linux/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://www.ec2mssqlworkshop.com)
 
+## Migration
+
+_AWS has the most experience helping all types
+of organizations migrate to the cloud.
+Our comprehensive portfolio of AWS migration tools and our mature
+third-party migration tooling ecosystem provide automation and intelligent
+recommendations based on AWS machine learning to simplify and accelerate each
+step of the migration process._
+
+- [Application Migration with AWS](https://github.com/aws-samples/application-migration-with-aws-workshop)
+- [Data Migration (AWS Storage Gateway, AWS Snowball, and AWS DataSync)](http://reinvent2019-data-workshop.s3-website-us-east-1.amazonaws.com/)
+- [Data migration workshop, 10K small file scenario (S3 script, FGW, DataSync & Transfer SFTP)](http://a.co/51cKtdv)
+- [Zero Downtime Migrations to AWS](https://zero-downtime-migrations.workshop.aws/en)
+
 ## Network
 
 _AWS delivers the highest network availability of any cloud provider,
@@ -391,8 +406,6 @@ the foundation of your cloud IT environment._
 - [AWS Backup Workshop](https://specialist-cloudformation-templates.s3-us-west-1.amazonaws.com/pl/aws-backup-loft.pdf)
 - [Caching S3 with ElastiCache for Redis](https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis)
 - [CloudEndure Deep Dive](http://02h.s3-website.eu-central-1.amazonaws.com)
-- [Data Migration (AWS Storage Gateway, AWS Snowball, and AWS DataSync)](http://reinvent2019-data-workshop.s3-website-us-east-1.amazonaws.com/)
-- [Data migration workshop, 10K small file scenario (S3 script, FGW, DataSync & Transfer SFTP)](http://a.co/51cKtdv)
 - [DataSync and File Gateway](https://github.com/aws-samples/aws-datasync-migration-workshop)
 - [EFS Performance, Scaleout, Monitoring, Incloud Transfer](https://github.com/darrylsosborne/amazon-efs-workshop)
 - [FSx for Lustre](https://github.com/aws-samples/amazon-fsx-workshop/tree/master/fsx-lustre/)
