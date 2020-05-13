@@ -23,7 +23,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 !!! warning
     As you go through each workshop, they might create billable AWS resources. You should remove those at the end of the workshop to avoid incurring future charges to your account. Follow each workshop instrutions to do so.
 
-- [Awesome AWS Workshops](#awesome-aws-workshops)
+- [**Awesome AWS Workshops**](#awesome-aws-workshops)
   - [AI and ML](#ai-and-ml)
   - [Alexa](#alexa)
   - [Application Modernization](#application-modernization)
@@ -350,18 +350,21 @@ AWS allows you to automate manual security tasks so you can shift
 your focus to scaling and innovating your business._
 
 - [Adding Security into DevOps](https://devops.awssecworkshops.com/)
+- [An AWS Security Odyssey](https://github.com/aws-samples/aws-security-odyssey/tree/master/SID402Workshop)
 - [AWS Identity: Using Amazon Cognito for serverless consumer apps](https://serverless-idm.awssecworkshops.com/)
 - [AWS Protecting Workloads Workshops](http://protecting-workloads.awssecworkshops.com/)
 - [AWS Security Workshops (*MULTIPLE MODULES*)](https://awssecworkshops.com/)
+- [AWS WAF workshop](https://github.com/aws-samples/aws-waf-classic-workshop)
 - [DevSecOps with Snyk](https://snyk.modernize.awsworkshop.io/)
 - [Getting Hands on with Amazon GuardDuty](https://hands-on-guardduty.awssecworkshops.com/)
 - [IAM deep dive](https://identity-round-robin.awssecworkshops.com/)
+- [R00tz Ctf On AWS- Security Capture The Flag](https://r00tz-ctf.awssecworkshops.com/)
 - [Scaling threat detection and response in AWS](https://scaling-threat-detection.awssecworkshops.com)
 - [Securing Serverless Workloads](https://github.com/aws-samples/aws-serverless-security-workshop/blob/master/README.md)
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
+- [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
 - [Welcome to the flAWS challenge](http://flaws.cloud/)
-
 
 ## Serverless
 
