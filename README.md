@@ -23,7 +23,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 !!! warning
     As you go through each workshop, they might create billable AWS resources. You should remove those at the end of the workshop to avoid incurring future charges to your account. Follow each workshop instrutions to do so.
 
-- [Awesome AWS Workshops](#awesome-aws-workshops)
+- [**Awesome AWS Workshops**](#awesome-aws-workshops)
   - [AI and ML](#ai-and-ml)
   - [Alexa](#alexa)
   - [Application Modernization](#application-modernization)
@@ -31,7 +31,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Connect](#connect)
   - [Containers](#containers)
   - [Databases](#databases)
-  - [DataLake and Analytics](#datalakes-and-analytics)
+  - [Datalakes and Analytics](#datalakes-and-analytics)
   - [Development and CI/CD](#development-and-cicd)
   - [End User Computing](#end-user-computing)
   - [Enterprise Customers](#enterprise-customers)
@@ -44,10 +44,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Media](#media)
   - [Microsoft](#microsoft)
   - [Migration](#migration)
-  - [Networking](#networking)
+  - [Network](#network)
   - [Security](#security)
   - [Serverless](#serverless)
   - [Storage](#storage)
+  - [Contributing](#contributing)
 
 ---
 
@@ -140,6 +141,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Introduction to GitOps on Amazon EKS with Weaveworks](https://weaveworks-gitops.awsworkshop.io/)
 - [Kubernetes the AWSome Way](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [Mythical Mysfits: A tale of love, loss, and cuddles](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop)
+
 
 ## Databases
 
@@ -361,6 +363,10 @@ your focus to scaling and innovating your business._
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
 - [Welcome to the flAWS challenge](http://flaws.cloud/)
+- [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
+- [R00tz Ctf On AWS- Security Capture The Flag](https://r00tz-ctf.awssecworkshops.com/)
+- [AWS WAF workshop](https://github.com/aws-samples/aws-waf-classic-workshop)
+- [An AWS Security Odyssey](https://github.com/aws-samples/aws-security-odyssey/tree/master/SID402Workshop)
 
 ## Serverless
 
