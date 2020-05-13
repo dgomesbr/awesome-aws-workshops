@@ -162,6 +162,7 @@ _Data Lakes and Analytics on AWS is the fastest way to get
 answers from all your data to all your users_
 
 - [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
+- [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://d3akduqkn9yexq.cloudfront.net/)
 - [Athena](https://athena-in-action.workshop.aws/)
 - [AWS Database Migration Workshop](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
