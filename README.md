@@ -438,5 +438,8 @@ Your contributions are always welcome! Please take a look at the [contribution g
 We will keep pull requests open so you can [vote for them](https://github.com/dgomesbr/awesome-aws-workshops/pulls) by adding :+1: to it. Pull requests will be merged when their votes reach **10**.
 
 ---
+Questions, sugestions, and new content? 
 
-If you have any question about this opinionated list, do not hesitate to contact [@dgomesbr](https://twitter.com/dgomesbr) on Twitter, [Enrico Bergamo](https://www.linkedin.com/in/enricosbergamo) on LinkedIn, or open an issue on GitHub.
+[![follow-social](https://img.shields.io/twitter/follow/awsomeworkshops?style=social)](https://twitter.com/awsomeworkshops) <br/>
+[![follow-social](https://img.shields.io/twitter/follow/dgomesbr?style=social)](https://twitter.com/dgomesbr) <br/>
+[![follow-social](https://img.shields.io/twitter/follow/enrico18?style=social)](https://twitter.com/enrico18) <br/>
