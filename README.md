@@ -31,7 +31,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Connect](#connect)
   - [Containers](#containers)
   - [Databases](#databases)
-  - [DataLake and Analytics](#datalakes-and-analytics)
+  - [DataLakes and Analytics](#datalakes-and-analytics)
   - [Development and CI/CD](#development-and-cicd)
   - [End User Computing](#end-user-computing)
   - [Enterprise Customers](#enterprise-customers)
