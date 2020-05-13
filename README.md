@@ -44,7 +44,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Media](#media)
   - [Microsoft](#microsoft)
   - [Migration](#migration)
-  - [Networking](#networking)
+  - [Network](#network)
   - [Security](#security)
   - [Serverless](#serverless)
   - [Storage](#storage)
@@ -361,6 +361,7 @@ your focus to scaling and innovating your business._
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
 - [Welcome to the flAWS challenge](http://flaws.cloud/)
+
 
 ## Serverless
 
