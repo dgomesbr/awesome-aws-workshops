@@ -193,7 +193,7 @@ with the AWS Developer Tools to accelerate your software development and release
 - [CI/CD with Fargate](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-fargate-bg-workshop/public/en/index.html)
 - [CI/CD with Jenkins](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/jenkins-ws/public/en/index.html)
 - [Continuous Deployment on AWS Workshop](https://cd.labgui.de/)
-- [Learn Python on AWS](https://learn-to-code.workshop.aws)
+- [Learn how to code on AWS](https://learn-to-code.workshop.aws)
 - [Operations in CI/CD](https://louay-workshops.com.au/security-automation-workshop.html)
 
 ## End User Computing
