@@ -12,6 +12,10 @@ ogimagealt: Awesome AWS Workshops - Build On!
 
 ![Awesome AWS Banner](https://awesome-aws-workshops.com/assets/img/awesomebanner.png)
 
+![deploy](https://github.com/dgomesbr/awesome-aws-workshops/workflows/deploy/badge.svg)
+![last-updated](https://img.shields.io/github/last-commit/dgomesbr/awesome-aws-workshops?color=CB006D&label=last%20updated)
+![activity](https://img.shields.io/github/commit-activity/m/dgomesbr/awesome-aws-workshops)
+
 _**(Unofficial)**_ Curated list of awesome workshops found around in the internet.
 As we all have been there, finding that workshop that you have just attended shouldn't be hard.
 The idea is to provide an easy central repository, in a collaborative way.
@@ -31,7 +35,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Connect](#connect)
   - [Containers](#containers)
   - [Databases](#databases)
-  - [Datalakes and Analytics](#datalakes-and-analytics)
+  - [DataLakes and Analytics](#datalakes-and-analytics)
   - [Development and CI/CD](#development-and-cicd)
   - [End User Computing](#end-user-computing)
   - [Enterprise Customers](#enterprise-customers)
@@ -48,7 +52,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Security](#security)
   - [Serverless](#serverless)
   - [Storage](#storage)
-  - [Contributing](#contributing)
 
 ---
 
@@ -132,6 +135,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
+- [Amazon SageMaker + EKS + Kubeflow Workshop: Hands-On Distributed Training with TensorFlow, Keras, PyTorch, and MXNet](https://master.d2j834wqg8s4j0.amplifyapp.com)
 - [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 - [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
 - [Container Security](https://container-devsecops.awssecworkshops.com/)
@@ -141,7 +145,6 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Introduction to GitOps on Amazon EKS with Weaveworks](https://weaveworks-gitops.awsworkshop.io/)
 - [Kubernetes the AWSome Way](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [Mythical Mysfits: A tale of love, loss, and cuddles](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop)
-
 
 ## Databases
 
@@ -154,6 +157,8 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Amazon Elasticsearch Workshops](https://deh4m73phis7u.cloudfront.net/log-analytics/mainlab/)
 - [Amazon RDS Purpose Built](https://github.com/aws-samples/amazon-rds-purpose-built-workshop)
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
+- [AWS Database Migration Workshop - re:Invent 2019](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
+- [AWS DMS Immersion Day](https://dms-immersionday.workshop.aws/)
 - [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
 - [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
@@ -164,12 +169,11 @@ _Data Lakes and Analytics on AWS is the fastest way to get
 answers from all your data to all your users_
 
 - [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
+- [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://d3akduqkn9yexq.cloudfront.net/)
 - [Athena](https://athena-in-action.workshop.aws/)
-- [AWS Database Migration Workshop](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
 - [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
-- [DMS](https://dms-immersionday.workshop.aws/)
 - [Incremental Data Processing On Amazon EMR (apache Hudi)](https://incremental-data-processing-on-amazonemr.workshop.aws/en)
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
@@ -352,21 +356,21 @@ AWS allows you to automate manual security tasks so you can shift
 your focus to scaling and innovating your business._
 
 - [Adding Security into DevOps](https://devops.awssecworkshops.com/)
+- [An AWS Security Odyssey](https://github.com/aws-samples/aws-security-odyssey/tree/master/SID402Workshop)
 - [AWS Identity: Using Amazon Cognito for serverless consumer apps](https://serverless-idm.awssecworkshops.com/)
 - [AWS Protecting Workloads Workshops](http://protecting-workloads.awssecworkshops.com/)
 - [AWS Security Workshops (*MULTIPLE MODULES*)](https://awssecworkshops.com/)
+- [AWS WAF workshop](https://github.com/aws-samples/aws-waf-classic-workshop)
 - [DevSecOps with Snyk](https://snyk.modernize.awsworkshop.io/)
 - [Getting Hands on with Amazon GuardDuty](https://hands-on-guardduty.awssecworkshops.com/)
 - [IAM deep dive](https://identity-round-robin.awssecworkshops.com/)
+- [R00tz Ctf On AWS- Security Capture The Flag](https://r00tz-ctf.awssecworkshops.com/)
 - [Scaling threat detection and response in AWS](https://scaling-threat-detection.awssecworkshops.com)
 - [Securing Serverless Workloads](https://github.com/aws-samples/aws-serverless-security-workshop/blob/master/README.md)
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
-- [Welcome to the flAWS challenge](http://flaws.cloud/)
 - [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
-- [R00tz Ctf On AWS- Security Capture The Flag](https://r00tz-ctf.awssecworkshops.com/)
-- [AWS WAF workshop](https://github.com/aws-samples/aws-waf-classic-workshop)
-- [An AWS Security Odyssey](https://github.com/aws-samples/aws-security-odyssey/tree/master/SID402Workshop)
+- [Welcome to the flAWS challenge](http://flaws.cloud/)
 
 ## Serverless
 
@@ -435,5 +439,8 @@ Your contributions are always welcome! Please take a look at the [contribution g
 We will keep pull requests open so you can [vote for them](https://github.com/dgomesbr/awesome-aws-workshops/pulls) by adding :+1: to it. Pull requests will be merged when their votes reach **10**.
 
 ---
+Questions, sugestions, and new content?
 
-If you have any question about this opinionated list, do not hesitate to contact [@dgomesbr](https://twitter.com/dgomesbr) on Twitter, [Enrico Bergamo](https://www.linkedin.com/in/enricosbergamo) on LinkedIn, or open an issue on GitHub.
+[![follow-social](https://img.shields.io/twitter/follow/awsomeworkshops?style=social)](https://twitter.com/awsomeworkshops) <br/>
+[![follow-social](https://img.shields.io/twitter/follow/dgomesbr?style=social)](https://twitter.com/dgomesbr) <br/>
+[![follow-social](https://img.shields.io/twitter/follow/enrico18?style=social)](https://twitter.com/enrico18) <br/>
