@@ -35,7 +35,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Connect](#connect)
   - [Containers](#containers)
   - [Databases](#databases)
-  - [DataLakes and Analytics](#datalakes-and-analytics)
+  - [Datalakes and Analytics](#datalakes-and-analytics)
   - [Development and CI/CD](#development-and-cicd)
   - [End User Computing](#end-user-computing)
   - [Enterprise Customers](#enterprise-customers)
@@ -52,6 +52,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Security](#security)
   - [Serverless](#serverless)
   - [Storage](#storage)
+  - [Contributing](#contributing)
 
 ---
 
@@ -194,6 +195,7 @@ with the AWS Developer Tools to accelerate your software development and release
 - [CI/CD with Jenkins](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/jenkins-ws/public/en/index.html)
 - [Continuous Deployment on AWS Workshop](https://cd.labgui.de/)
 - [Operations in CI/CD](https://louay-workshops.com.au/security-automation-workshop.html)
+- [HashiCorp - Packer](https://learn.hashicorp.com/packer)
 
 ## End User Computing
 
@@ -241,6 +243,7 @@ members before deploying into production._
 - [AWS CloudFormation Best Practices:](http://workshop.quickstart.awspartner.com/)
 - [AWS CloudFormation Workshop for Partners](https://workshop.quickstart.awspartner.com/)
 - [AWS CloudFormation Workshop](https://cfn101.solution.builders/)
+- [HashiCorp Terraform](https://learn.hashicorp.com/terraform)
 
 ## Infrastructure
 
@@ -371,6 +374,7 @@ your focus to scaling and innovating your business._
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
 - [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
 - [Welcome to the flAWS challenge](http://flaws.cloud/)
+- [HashiCorp - Vault](https://learn.hashicorp.com/vault)
 
 ## Serverless
 
