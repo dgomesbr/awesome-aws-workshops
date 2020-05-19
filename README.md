@@ -363,6 +363,7 @@ your focus to scaling and innovating your business._
 - [AWS Protecting Workloads Workshops](http://protecting-workloads.awssecworkshops.com/)
 - [AWS Security Workshops (*MULTIPLE MODULES*)](https://awssecworkshops.com/)
 - [AWS WAF workshop](https://github.com/aws-samples/aws-waf-classic-workshop)
+- [AWS WAF workshop #2: Protect your application](https://waf.sa.engineering/)
 - [DevSecOps with Snyk](https://snyk.modernize.awsworkshop.io/)
 - [Getting Hands on with Amazon GuardDuty](https://hands-on-guardduty.awssecworkshops.com/)
 - [IAM deep dive](https://identity-round-robin.awssecworkshops.com/)
