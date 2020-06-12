@@ -189,6 +189,7 @@ with the AWS Developer Tools to accelerate your software development and release
 - [Amazon CodeGuru](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/codeguru/public/en/index.html)
 - [An Introductory Workshop on CI/CD Practices](https://github.com/awslabs/aws-devops-essential)
 - [AWS Code Suite Integration To Atlassian Jira Software Cloud](https://atlassian.awsworkshop.io/)
+- [AMPLIFY SOCIAL NETWORK APP WORKSHOP](https://amplify-sns.workshop.aws/en)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 - [Building Serverless Web Applications with React and AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
 - [CI/CD Serverless CDK](https://cicd.serverlessworkshops.io/)
