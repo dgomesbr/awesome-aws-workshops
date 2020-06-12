@@ -198,7 +198,6 @@ with the AWS Developer Tools to accelerate your software development and release
 - [Continuous Deployment on AWS Workshop](https://cd.labgui.de/)
 - [Learn how to code on AWS](https://learn-to-code.workshop.aws)
 - [Operations in CI/CD](https://louay-workshops.com.au/security-automation-workshop.html)
-- [HashiCorp - Packer](https://learn.hashicorp.com/packer)
 
 ## End User Computing
 
@@ -246,7 +245,6 @@ members before deploying into production._
 - [AWS CloudFormation Best Practices:](http://workshop.quickstart.awspartner.com/)
 - [AWS CloudFormation Workshop for Partners](https://workshop.quickstart.awspartner.com/)
 - [AWS CloudFormation Workshop](https://cfn101.solution.builders/)
-- [HashiCorp Terraform](https://learn.hashicorp.com/terraform)
 
 ## Infrastructure
 
@@ -377,7 +375,6 @@ your focus to scaling and innovating your business._
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
 - [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
 - [Welcome to the flAWS challenge](http://flaws.cloud/)
-- [HashiCorp - Vault](https://learn.hashicorp.com/vault)
 
 ## Serverless
 
