@@ -366,7 +366,6 @@ largest cloud provider._
 - [DevSecOps With Snyk](https://snyk.awsworkshop.io/)
 - [DevSecOps With Contrast Security](https://contrastsecurity.modernize.awsworkshop.io/)
 
-
 ## Security
 
 _With AWS, you can improve your ability to meet core security
