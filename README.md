@@ -166,6 +166,7 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
 - [AWS Database Migration Workshop - re:Invent 2019](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
 - [AWS DMS Immersion Day](https://dms-immersionday.workshop.aws/)
+- [AWS Glue Workshop](https://aws-glue.analytics.workshops.aws.dev/en/)
 - [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
 - [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
@@ -185,6 +186,7 @@ answers from all your data to all your users_
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
+
 
 ## Development and CI/CD
 
