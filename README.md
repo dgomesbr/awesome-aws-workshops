@@ -24,8 +24,8 @@ As the list grows we'll start including the number of :fontawesome-regular-star:
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-[![Amazon Web Services Public Sector Summit 2020](https://i.imgur.com/x9ZgnPR.png)](https://pages.awscloud.com/WWPS_Summit_Online_2020.html)
-[June 30, 2020 - 10:00 AM (EDT)](https://pages.awscloud.com/WWPS_Summit_Online_2020.html): Connect, collaborate, and learn at the AWS Public Sector Summit Online
+[![Amazon Web Services Public Sector Summit 2020](https://i.imgur.com/x9ZgnPR.png)](https://pages.awscloud.com/WWPS_Summit_Online_2020.html?utm_source=awesome-aws-workshops&utm_campaign=top-banner&utm_content=banner)
+[June 30, 2020 - 10:00 AM (EDT)](https://pages.awscloud.com/WWPS_Summit_Online_2020.html?utm_source=awesome-aws-workshops&utm_campaign=top-banner&utm_content=link): Connect, collaborate, and learn at the AWS Public Sector Summit Online
 
 ---
 
