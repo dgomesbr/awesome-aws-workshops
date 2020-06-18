@@ -54,6 +54,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Microsoft](#microsoft)
   - [Migration](#migration)
   - [Network](#network)
+  - [Partners](#partners)
   - [Security](#security)
   - [Serverless](#serverless)
   - [Storage](#storage)
@@ -354,6 +355,17 @@ largest cloud provider._
 
 - [IPV6](https://net207-ipv6networking.workshop.aws/)
 - [Networking Workshop - Transit Gateway and Traffic Mirroring](https://www.networking-workshop.com/#/)
+
+## Partners
+
+- [AWS Serverless With New Relic One](https://newrelic-serverless.awsworkshop.io/)
+- [Observability With New Relic One](https://newrelic.awsworkshop.io/)
+- [OpenShift On AWS](https://openshift4-on-aws.awsworkshop.io/)
+- [PCF On AWS](https://pcf-on-aws.awsworkshop.io/)
+- [Atlassian Code Suite Integration](https://atlassian.awsworkshop.io/)
+- [DevSecOps With Snyk](https://snyk.awsworkshop.io/)
+- [DevSecOps With Contrast Security](https://contrastsecurity.modernize.awsworkshop.io/)
+
 
 ## Security
 
