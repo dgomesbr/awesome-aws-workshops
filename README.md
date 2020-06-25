@@ -222,6 +222,7 @@ _AWS provides enterprises with multiple ways to consume services
 based on your business needs._
 
 - [SAP HANA on AWS Workshop](https://hdb.labgui.de/)
+- [SAP on AWS Beyond infrastructure](https://www.saponaws.aworkshop.io/)
 
 ## Event Driven
 
