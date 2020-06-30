@@ -8,8 +8,8 @@ copyright: This is NOT an official AWS website and has no affiliation with Amazo
 
 extra_css:
   - assets/css/extra.css
-nav:
-  - "Every workshop at your hands, build on!": "index.md"
+#nav:
+#  - "Every workshop at your hands, build on!": "index.md"
 theme:
   name: material
   language: en
@@ -68,8 +68,9 @@ plugins:
   - search
   - minify:
       minify_html: true
+  - awesome-pages:
+      collapse_single_pages: true
   # - htmlproofer
-  - awesome-pages
   #- pdf-export:
   #    verbose: false
   #    media_type: print
