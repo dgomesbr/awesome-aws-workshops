@@ -180,13 +180,14 @@ answers from all your data to all your users_
 - [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://d3akduqkn9yexq.cloudfront.net/)
 - [Athena](https://athena-in-action.workshop.aws/)
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
+- [Build Advanced Analytics & Dashbords with Amazon QuickSight](http://d3h1oz7s9b419c.cloudfront.net/en/introduction.html)
 - [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
+- [Embed Amazon Quicksight in a Web App from beggining to end](https://embed-workshop.learnquicksight.online/1.introduction.html)
 - [Incremental Data Processing On Amazon EMR (apache Hudi)](https://incremental-data-processing-on-amazonemr.workshop.aws/en)
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
-
 
 ## Development and CI/CD
 
