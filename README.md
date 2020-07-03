@@ -139,11 +139,11 @@ _AWS is the #1 place for you to run containers and 80%
 of all containers in the cloud run on AWS. Customers choose
 to run their containers on AWS because of our security, reliability, and scalability._
 
+- [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 - [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
 - [Amazon SageMaker + EKS + Kubeflow Workshop: Hands-On Distributed Training with TensorFlow, Keras, PyTorch, and MXNet](https://master.d2j834wqg8s4j0.amplifyapp.com)
-- [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 - [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
 - [Container Security](https://container-devsecops.awssecworkshops.com/)
 - [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io/)
@@ -158,15 +158,15 @@ to run their containers on AWS because of our security, reliability, and scalabi
 _Choose from 15 purpose-built database engines including relational,
 key-value, document, in-memory, graph, time series, and ledger databases._
 
+- [AWS DMS Immersion Day](https://dms-immersionday.workshop.aws/)
+- [AWS Database Migration Workshop - re:Invent 2019](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
+- [AWS Glue Workshop](https://aws-glue.analytics.workshops.aws.dev/en/)
 - [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
 - [Amazon Aurora Labs for PostgreSQL](https://awsauroralabspostgres.com/)
 - [Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/)
 - [Amazon Elasticsearch Workshops](https://deh4m73phis7u.cloudfront.net/log-analytics/mainlab/)
 - [Amazon RDS Purpose Built](https://github.com/aws-samples/amazon-rds-purpose-built-workshop)
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
-- [AWS Database Migration Workshop - re:Invent 2019](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
-- [AWS DMS Immersion Day](https://dms-immersionday.workshop.aws/)
-- [AWS Glue Workshop](https://aws-glue.analytics.workshops.aws.dev/en/)
 - [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
 - [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
@@ -176,10 +176,10 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 _Data Lakes and Analytics on AWS is the fastest way to get
 answers from all your data to all your users_
 
+- [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
 - [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
 - [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://d3akduqkn9yexq.cloudfront.net/)
 - [Athena](https://athena-in-action.workshop.aws/)
-- [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
 - [Build Advanced Analytics & Dashbords with Amazon QuickSight](http://d3h1oz7s9b419c.cloudfront.net/en/introduction.html)
 - [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
@@ -194,10 +194,10 @@ answers from all your data to all your users_
 _Implement continuous integration and continuous delivery
 with the AWS Developer Tools to accelerate your software development and release cycle._
 
+- [AWS Code Suite Integration To Atlassian Jira Software Cloud](https://atlassian.awsworkshop.io/)
 - [Amazon CodeGuru](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/codeguru/public/en/index.html)
 - [Amplify Social Network App Workshop](https://amplify-sns.workshop.aws/en)
 - [An Introductory Workshop on CI/CD Practices](https://github.com/awslabs/aws-devops-essential)
-- [AWS Code Suite Integration To Atlassian Jira Software Cloud](https://atlassian.awsworkshop.io/)
 - [Build a multichannel customer engagement solution using Amazon Pinpoint](https://pinpoint-jumpstart.workshop.aws/en/)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 - [Building Serverless Web Applications with React and AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
@@ -214,8 +214,8 @@ _Today's workforce is increasingly mobile. They're working remotely, on the go, 
 And, they're collaborating across borders, time zones, and organizations. We built AWS End User Computing (EUC) services
 to give you the agility to respond to the changing needs of your workforce._
 
-- [AppStream 2.0 ISV workshop](https://aws.amazon.com/appstream2/getting-started/isv-workshops/)
 - [AppStream 2.0 Enterprise Application Onboarding workshop](https://aws.amazon.com/appstream2/getting-started/ent-workshops/)
+- [AppStream 2.0 ISV workshop](https://aws.amazon.com/appstream2/getting-started/isv-workshops/)
 
 ## Enterprise Customers
 
@@ -264,6 +264,7 @@ mobile, developer tools, IoT, security, enterprise applications, and much more._
 
 - [Amazon Lightsail Workshop](https://lightsailworkshop.com/)
 - [Build a migration factory with CloudEndure and Migration Hub](http://ent304.s3-website-us-east-1.amazonaws.com/)
+- [Choose Your Own SAML Adventure](http://federationworkshopreinvent2016.s3-website-us-east-1.amazonaws.com/)
 - [Cloud Builders Day](https://cloudbuildersday.s3-eu-west-1.amazonaws.com/CloudBuildersDay-Guide.pdf)
 - [Core Services](http://aws-core-services.ws.kabits.com/)
 - [Customizing Content Delivery with Lambda@Edge](https://github.com/aws-samples/aws-lambda-edge-workshops/blob/master/Workshop1/README.md)
@@ -271,7 +272,6 @@ mobile, developer tools, IoT, security, enterprise applications, and much more._
 - [General Networking and Transit Gateway workshop](https://networking.aworkshop.io/)
 - [Landing Zone](https://lz-workshop.com/)
 - [Monte Carlo Simulation using AWS Batch](https://github.com/angelarw/aws-batch-monte-carlo-workshop)
-- [Choose Your Own SAML Adventure](http://federationworkshopreinvent2016.s3-website-us-east-1.amazonaws.com/)
 
 ## IoT
 
@@ -284,8 +284,8 @@ and rich analytics in easy to use services designed for noisy IoT data._
 - [AWS IoT Greengrass Bootcamp Advanced](http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/Advanced/Greengrass-Bootcamp_Advanced.html)
 - [AWS IoT Greengrass Bootcamp Starter](https://s3.amazonaws.com/greengrassworkshop/Greengrass-Bootcamp.html)
 - [AWS IoT SiteWise](https://iot-sitewise.workshop.aws/)
-- [AWS IoT/Greengrass/Analytics/Edge](https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-workshop)
 - [AWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
+- [AWS IoT/Greengrass/Analytics/Edge](https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-workshop)
 - [PARTNER - MIMIC MQTT lab integration with AWS IoT Core](https://mqttlab.iotsim.io/aws)
 
 ## Management Tools and Governance
@@ -295,14 +295,14 @@ faster and maintaining control over cost, compliance, and security.
 With AWS Management and Governance services, customers don’t have to
 choose between innovation and control—they can have both._
 
-- [Amazon CloudWatch](https://ako.aws-management.tools/tko372759/en/cw.html)
 - [AWS Control Tower workshop](https://controltower.aws-management.tools/)
 - [AWS Service Catalog workshop](https://service-catalog-tools-workshop.com/servicecatalog.html)
-- [AWS WellArchitected Labs](https://wellarchitectedlabs.com/)
-- [Management Tools Immersion Day](https://workshop.aws-management.tools)
-- [Open Distro for Elasticsearch](https://reinvent.aesworkshops.com/opn302/)
 - [AWS Systems Manager and AWS Config](https://ako.aws-management.tools/tko372759/en/ssm.html)
+- [AWS WellArchitected Labs](https://wellarchitectedlabs.com/)
+- [Amazon CloudWatch](https://ako.aws-management.tools/tko372759/en/cw.html)
+- [Management Tools Immersion Day](https://workshop.aws-management.tools)
 - [One Observability Demo](https://observability.workshop.aws/)
+- [Open Distro for Elasticsearch](https://reinvent.aesworkshops.com/opn302/)
 
 ## Media
 
