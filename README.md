@@ -302,6 +302,7 @@ choose between innovation and control—they can have both._
 - [Management Tools Immersion Day](https://workshop.aws-management.tools)
 - [Open Distro for Elasticsearch](https://reinvent.aesworkshops.com/opn302/)
 - [AWS Systems Manager and AWS Config](https://ako.aws-management.tools/tko372759/en/ssm.html)
+- [One Observability Demo](https://observability.workshop.aws/)
 
 ## Media
 
