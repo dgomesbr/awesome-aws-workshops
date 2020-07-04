@@ -9,7 +9,7 @@ copyright: This is NOT an official AWS website and has no affiliation with Amazo
 extra_css:
   - assets/css/extra.css
 nav:
-  - "Every workshop at your hands, build on!": "index.md"
+  - "Every workshop at your hands, build on! <br/><br/><a href='https://twitter.com/awsomeworkshops'><img alt='follow-social' src='https://img.shields.io/twitter/follow/awsomeworkshops?style=social'></a>": "index.md"
 theme:
   name: material
   language: en
