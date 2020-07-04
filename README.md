@@ -20,46 +20,20 @@ _**(Unofficial)**_ Curated list of awesome workshops found around in the interne
 As we all have been there, finding that workshop that you have just attended shouldn't be hard.
 The idea is to provide an easy central repository, in a collaborative way.
 
-As the list grows we'll start including the number of :fontawesome-regular-star: and follow any other ideas that you might have for it.
+You can access all the links in this page or navigate each section with the workshop link, details, and services using the menu on the left.
 
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+---
 
-[![Amazon Web Services Public Sector Summit 2020](https://i.imgur.com/x9ZgnPR.png)](https://pages.awscloud.com/WWPS_Summit_Online_2020.html?utm_source=awesome-aws-workshops&utm_campaign=top-banner&utm_content=banner)
-[June 30, 2020 - 10:00 AM (EDT)](https://pages.awscloud.com/WWPS_Summit_Online_2020.html?utm_source=awesome-aws-workshops&utm_campaign=top-banner&utm_content=link): Connect, collaborate, and learn at the AWS Public Sector Summit Online
+## Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/dgomesbr/awesome-aws-workshops/blob/master/CONTRIBUTING.md) first.
+
+We will keep pull requests open so you can [vote for them](https://github.com/dgomesbr/awesome-aws-workshops/pulls) by adding :+1: to it.
 
 ---
 
 !!! warning
     As you go through each workshop, they might create billable AWS resources. You should remove those at the end of the workshop to avoid incurring future charges to your account. Follow each workshop instrutions to do so.
-
-- [**Awesome AWS Workshops**](#awesome-aws-workshops)
-  - [AI and ML](#ai-and-ml)
-  - [Alexa](#alexa)
-  - [Application Modernization](#application-modernization)
-  - [BlockChain](#blockchain)
-  - [Connect](#connect)
-  - [Containers](#containers)
-  - [Databases](#databases)
-  - [DataLakes and Analytics](#datalakes-and-analytics)
-  - [Development and CI/CD](#development-and-cicd)
-  - [End User Computing](#end-user-computing)
-  - [Enterprise Customers](#enterprise-customers)
-  - [Event Driven](#event-driven)
-  - [HPC](#hpc)
-  - [Infrastructure as Code](#infrastructure-as-code)
-  - [Infrastructure](#infrastructure)
-  - [IoT](#iot)
-  - [Management Tools and Governance](#management-tools-and-governance)
-  - [Media](#media)
-  - [Microsoft](#microsoft)
-  - [Migration](#migration)
-  - [Network](#network)
-  - [Partners](#partners)
-  - [Security](#security)
-  - [Serverless](#serverless)
-  - [Storage](#storage)
-
----
 
 ## AI and ML
 
@@ -459,14 +433,6 @@ the foundation of your cloud IT environment._
 - [Online AWS Data Migrations](https://github.com/aws-samples/aws-online-data-migration-workshop)
 - [S3 Security Settings and Controls](https://github.com/aws-samples/amazon-s3-security-settings-and-controls)
 - [Transfer for SFTP Logical Directory demonstration](https://github.com/aws-samples/transfer-for-sftp-logical-directories)
-
----
-
-## Contributing
-
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/dgomesbr/awesome-aws-workshops/blob/master/CONTRIBUTING.md) first.
-
-We will keep pull requests open so you can [vote for them](https://github.com/dgomesbr/awesome-aws-workshops/pulls) by adding :+1: to it. Pull requests will be merged when their votes reach **10**.
 
 ---
 Questions, sugestions, and new content?
