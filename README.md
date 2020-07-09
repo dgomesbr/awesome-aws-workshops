@@ -20,8 +20,8 @@ _**(Unofficial)**_ Curated list of awesome workshops found around in the interne
 As we all have been there, finding that workshop that you have just attended shouldn't be hard.
 The idea is to provide an easy central repository, in a collaborative way.
 
-You can access all the links in this page or navigate each section with the workshop link, details, and services using the menu on the left.
-
+[![GitAds](https://images.gitads.io/awesome-aws-workshops)](https://tracking.gitads.io/?repo=awesome-aws-workshops)
+_**awesome-aws-workshops** is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial_
 ---
 
 ## Contributing
