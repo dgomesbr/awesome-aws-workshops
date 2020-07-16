@@ -168,10 +168,10 @@ answers from all your data to all your users_
 _Implement continuous integration and continuous delivery
 with the AWS Developer Tools to accelerate your software development and release cycle._
 
-- [AWS Code Suite Integration To Atlassian Jira Software Cloud](https://atlassian.awsworkshop.io/)
 - [Amazon CodeGuru](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/codeguru/public/en/index.html)
 - [Amplify Social Network App Workshop](https://amplify-sns.workshop.aws/en)
 - [An Introductory Workshop on CI/CD Practices](https://github.com/awslabs/aws-devops-essential)
+- [AWS Code Suite Integration To Atlassian Jira Software Cloud](https://atlassian.awsworkshop.io/)
 - [Build a multichannel customer engagement solution using Amazon Pinpoint](https://pinpoint-jumpstart.workshop.aws/en/)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 - [Building Serverless Web Applications with React and AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
