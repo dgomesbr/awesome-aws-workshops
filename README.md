@@ -343,6 +343,7 @@ _The APN helps companies build, market, and sell their AWS offerings by providin
 There are tens of thousands of APN Partners across the globe. More than 90% of Fortune 100 companies and the majority of Fortune 500
 companies utilize APN Partner solutions and services._
 
+- [AWS Modernization Workshop: Observability With Epsagon](https://epsagon.awsworkshop.io/)
 - [AWS Serverless With New Relic One](https://newrelic-serverless.awsworkshop.io/)
 - [Observability With New Relic One](https://newrelic.awsworkshop.io/)
 - [OpenShift On AWS](https://openshift4-on-aws.awsworkshop.io/)
