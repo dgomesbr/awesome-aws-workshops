@@ -377,6 +377,7 @@ your focus to scaling and innovating your business._
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
 - [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
 - [Welcome to the flAWS challenge](http://flaws.cloud/)
+- [AWS Security Hub Workshop](https://github.com/aws-samples/aws-security-hub-workshop)
 
 ## Serverless
 
