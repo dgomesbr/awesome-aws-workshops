@@ -152,7 +152,7 @@ answers from all your data to all your users_
 
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
 - [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
-- [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://d3akduqkn9yexq.cloudfront.net/)
+- [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://quicksight-covid19-labs.workshop.aws/)
 - [Athena](https://athena-in-action.workshop.aws/)
 - [Build Advanced Analytics & Dashbords with Amazon QuickSight](http://d3h1oz7s9b419c.cloudfront.net/en/introduction.html)
 - [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
