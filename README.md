@@ -118,6 +118,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
 - [Amazon SageMaker + EKS + Kubeflow Workshop: Hands-On Distributed Training with TensorFlow, Keras, PyTorch, and MXNet](https://master.d2j834wqg8s4j0.amplifyapp.com)
+- [AWS App Mesh with Amazon EKS Workshop](https://app-mesh-eks-workshop.cloudfiles.me/)
 - [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
 - [Container Security](https://container-devsecops.awssecworkshops.com/)
 - [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io/)
