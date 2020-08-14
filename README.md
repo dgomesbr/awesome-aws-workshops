@@ -121,6 +121,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [AWS App Mesh with Amazon EKS Workshop](https://app-mesh-eks-workshop.cloudfiles.me/)
 - [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
 - [Container Security](https://container-devsecops.awssecworkshops.com/)
+- [ECS Fargate Workshop](https://ecs-fargate-dev-ops-data.workshop.aws/)
 - [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io/)
 - [GitOps Helm Workshop](https://helm.workshop.flagger.dev/)
 - [Integrating security into your container pipeline](https://container-devsecops.awssecworkshops.com/)
