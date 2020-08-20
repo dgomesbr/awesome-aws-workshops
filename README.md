@@ -372,12 +372,13 @@ your focus to scaling and innovating your business._
 - [Getting Hands on with Amazon GuardDuty](https://hands-on-guardduty.awssecworkshops.com/)
 - [IAM deep dive](https://identity-round-robin.awssecworkshops.com/)
 - [R00tz Ctf On AWS- Security Capture The Flag](https://r00tz-ctf.awssecworkshops.com/)
+- [AWS Protecting Workloads Workshops](https://protecting-workloads.awssecworkshops.com/)
 - [Scaling threat detection and response in AWS](https://scaling-threat-detection.awssecworkshops.com)
 - [Securing Serverless Workloads](https://github.com/aws-samples/aws-serverless-security-workshop/blob/master/README.md)
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
-- [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
 - [Welcome to the flAWS challenge](http://flaws.cloud/)
+- [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
 - [AWS Security Hub Workshop](https://github.com/aws-samples/aws-security-hub-workshop)
 
 ## Serverless
