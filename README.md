@@ -43,6 +43,7 @@ related Workshops_
 - [AI Workshop](https://github.com/samir-souza/ai-workshop)
 - [AI/ML Workshops](https://github.com/drandrewkane/AI_ML_Workshops)
 - [Amazon SageMaker Autopilot Workshop](https://gitlab.com/juliensimon/aim361)
+- [Amazon SageMaker Immersion Day](https://sagemaker-immersionday.workshop.aws/en)
 - [Amazon SageMaker MLOps](https://github.com/awslabs/amazon-sagemaker-mlops-workshop)
 - [Amazon SageMaker Workshop](https://sagemaker-workshop.com/)
 - [Amazon Sumerian Workshop](http://workshop-sumerian-ar-webapp.s3-website-eu-west-1.amazonaws.com/en/)
