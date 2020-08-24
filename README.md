@@ -67,6 +67,7 @@ related Workshops_
 - [SageMaker for Battlesnake AI](https://github.com/awslabs/sagemaker-battlesnake-ai)
 - [SageMaker Workshop on steroids](https://www.sagemakerworkshop.com/)
 - [Voice Robotics Workshop](http://voiceroboticsworkshop.com/)
+- [Using Amazon SageMaker Managed Spot Training](https://ec2spotworkshops.com/using-sagemaker-managed-spot-training.html)
 
 ## Alexa
 
@@ -129,6 +130,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Introduction to GitOps on Amazon EKS with Weaveworks](https://weaveworks-gitops.awsworkshop.io/)
 - [Kubernetes the AWSome Way](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [Mythical Mysfits: A tale of love, loss, and cuddles](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop)
+- [Using Spot Instances with EKS](https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks.html)
 
 ## Databases
 
@@ -166,6 +168,8 @@ answers from all your data to all your users_
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
+- [Running Spark apps with EMR on Spot Instances](https://ec2spotworkshops.com/running_spark_apps_with_emr_on_spot_instances.html)
+
 
 ## Development and CI/CD
 
@@ -187,6 +191,7 @@ with the AWS Developer Tools to accelerate your software development and release
 - [Getting Started with AWS for Formal Workloads](https://getstarted.awsworkshop.io/)
 - [Learn how to code on AWS](https://learn-to-code.workshop.aws)
 - [Operations in CI/CD](https://louay-workshops.com.au/security-automation-workshop.html)
+- [CI/CD and Test Workloads with EC2 Spot Instances](https://ec2spotworkshops.com/amazon-ec2-spot-cicd-workshop.html)
 
 ## End User Computing
 
@@ -223,6 +228,7 @@ workloads dictate, not the other way around._
 
 - [High Performance Computing on AWS](https://www.hpcworkshops.com/)
 - [ScaleOut Computing on AWS](https://awslabs.github.io/scale-out-computing-on-aws/workshops/)
+- [Nextflow with AWS Batch](https://ec2spotworkshops.com/nextflow-on-aws-batch.html)
 
 ## Infrastructure as Code
 
@@ -248,10 +254,12 @@ mobile, developer tools, IoT, security, enterprise applications, and much more._
 - [Cloud Builders Day](https://cloudbuildersday.s3-eu-west-1.amazonaws.com/CloudBuildersDay-Guide.pdf)
 - [Core Services](http://aws-core-services.ws.kabits.com/)
 - [Customizing Content Delivery with Lambda@Edge](https://github.com/aws-samples/aws-lambda-edge-workshops/blob/master/Workshop1/README.md)
-- [EC2 Spot Instance workshop](https://ec2spotworkshops.com/)
+- [EC2 Spot Instance workshops](https://ec2spotworkshops.com/)
 - [General Networking and Transit Gateway workshop](https://networking.aworkshop.io/)
 - [Landing Zone](https://lz-workshop.com/)
 - [Monte Carlo Simulation using AWS Batch](https://github.com/angelarw/aws-batch-monte-carlo-workshop)
+- [Running EC2 Workloads at Scale with EC2 Auto Scaling](https://ec2spotworkshops.com/running-amazon-ec2-workloads-at-scale.html)
+- [EC2 Auto Scaling with multiple instance types and purchase options](https://ec2spotworkshops.com/ec2-auto-scaling-with-multiple-instance-types-and-purchase-options.html)
 
 ## IoT
 
