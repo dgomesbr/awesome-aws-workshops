@@ -19,9 +19,10 @@ ogimagealt: Awesome AWS Workshops - Build On!
 _**(Unofficial)**_ Curated list of awesome workshops found around in the internet.
 As we all have been there, finding that workshop that you have just attended shouldn't be hard.
 The idea is to provide an easy central repository, in a collaborative way.
-
+<!--
 [![GitAds](https://images.gitads.io/awesome-aws-workshops)](https://tracking.gitads.io/?repo=awesome-aws-workshops)
 _**awesome-aws-workshops** is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial_
+-->
 ---
 
 ## Contributing
@@ -66,8 +67,8 @@ related Workshops_
 - [Realtime analytics for ride sharing Workshop](https://streaming-analytics.labgui.de/)
 - [SageMaker for Battlesnake AI](https://github.com/awslabs/sagemaker-battlesnake-ai)
 - [SageMaker Workshop on steroids](https://www.sagemakerworkshop.com/)
-- [Voice Robotics Workshop](http://voiceroboticsworkshop.com/)
 - [Using Amazon SageMaker Managed Spot Training](https://ec2spotworkshops.com/using-sagemaker-managed-spot-training.html)
+- [Voice Robotics Workshop](http://voiceroboticsworkshop.com/)
 
 ## Alexa
 
@@ -115,14 +116,15 @@ _AWS is the #1 place for you to run containers and 80%
 of all containers in the cloud run on AWS. Customers choose
 to run their containers on AWS because of our security, reliability, and scalability._
 
-- [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 - [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
 - [Amazon SageMaker + EKS + Kubeflow Workshop: Hands-On Distributed Training with TensorFlow, Keras, PyTorch, and MXNet](https://master.d2j834wqg8s4j0.amplifyapp.com)
 - [AWS App Mesh with Amazon EKS Workshop](https://app-mesh-eks-workshop.cloudfiles.me/)
+- [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 - [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
 - [Container Security](https://container-devsecops.awssecworkshops.com/)
+- [Containerizing a .NET application to deploy to ECS/Fargate via CodePipeline](https://containerise.awsbuilders.cloud/)
 - [ECS Fargate Workshop](https://ecs-fargate-dev-ops-data.workshop.aws/)
 - [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io/)
 - [GitOps Helm Workshop](https://helm.workshop.flagger.dev/)
@@ -131,16 +133,12 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Kubernetes the AWSome Way](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [Mythical Mysfits: A tale of love, loss, and cuddles](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop)
 - [Using Spot Instances with EKS](https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks.html)
-- [Containerizing a .NET application to deploy to ECS/Fargate via CodePipeline](https://containerise.awsbuilders.cloud/)
 
 ## Databases
 
 _Choose from 15 purpose-built database engines including relational,
 key-value, document, in-memory, graph, time series, and ledger databases._
 
-- [AWS DMS Immersion Day](https://dms-immersionday.workshop.aws/)
-- [AWS Database Migration Workshop - re:Invent 2019](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
-- [AWS Glue Workshop](https://aws-glue.analytics.workshops.aws.dev/en/)
 - [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
 - [Amazon Aurora Labs for PostgreSQL](https://awsauroralabspostgres.com/)
 - [Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/)
@@ -148,6 +146,9 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Amazon Quantum Ledger Database Workshops](https://qldb-immersionday.workshop.aws)
 - [Amazon RDS Purpose Built](https://github.com/aws-samples/amazon-rds-purpose-built-workshop)
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
+- [AWS Database Migration Workshop - re:Invent 2019](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
+- [AWS DMS Immersion Day](https://dms-immersionday.workshop.aws/)
+- [AWS Glue Workshop](https://aws-glue.analytics.workshops.aws.dev/en/)
 - [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
 - [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
@@ -157,20 +158,20 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 _Data Lakes and Analytics on AWS is the fastest way to get
 answers from all your data to all your users_
 
-- [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
 - [Amazon EMR with Service Catalog](https://s3.amazonaws.com/kenwalshtestad/cfn/public/sc/bootcamp/emrloft.html)
 - [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://quicksight-covid19-labs.workshop.aws/)
 - [Athena](https://athena-in-action.workshop.aws/)
-- [Building Streaming Analytics Applications On AWS](https://real-time-streaming-with-kinesis.workshop.aws)
+- [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
 - [Build Advanced Analytics & Dashbords with Amazon QuickSight](http://d3h1oz7s9b419c.cloudfront.net/en/introduction.html)
+- [Building Streaming Analytics Applications On AWS](https://real-time-streaming-with-kinesis.workshop.aws)
 - [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
 - [Embed Amazon Quicksight in a Web App from beggining to end](https://embed-workshop.learnquicksight.online/1.introduction.html)
 - [Incremental Data Processing On Amazon EMR (apache Hudi)](https://incremental-data-processing-on-amazonemr.workshop.aws/en)
 - [Realtime Analytics and Serverless DataLake Demos](https://demostore.cloud/)
+- [Running Spark apps with EMR on Spot Instances](https://ec2spotworkshops.com/running_spark_apps_with_emr_on_spot_instances.html)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
-- [Running Spark apps with EMR on Spot Instances](https://ec2spotworkshops.com/running_spark_apps_with_emr_on_spot_instances.html)
 
 
 ## Development and CI/CD
@@ -186,6 +187,7 @@ with the AWS Developer Tools to accelerate your software development and release
 - [Building an AI Powered Web Application with AWS Amplify](https://mob302.learn-the-cloud.com)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 - [Building Serverless Web Applications with React and AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
+- [CI/CD and Test Workloads with EC2 Spot Instances](https://ec2spotworkshops.com/amazon-ec2-spot-cicd-workshop.html)
 - [CI/CD Serverless CDK](https://cicd.serverlessworkshops.io/)
 - [CI/CD with Fargate](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-fargate-bg-workshop/public/en/index.html)
 - [CI/CD with Jenkins](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/jenkins-ws/public/en/index.html)
@@ -193,7 +195,6 @@ with the AWS Developer Tools to accelerate your software development and release
 - [Getting Started with AWS for Formal Workloads](https://getstarted.awsworkshop.io/)
 - [Learn how to code on AWS](https://learn-to-code.workshop.aws)
 - [Operations in CI/CD](https://louay-workshops.com.au/security-automation-workshop.html)
-- [CI/CD and Test Workloads with EC2 Spot Instances](https://ec2spotworkshops.com/amazon-ec2-spot-cicd-workshop.html)
 
 ## End User Computing
 
@@ -229,8 +230,8 @@ unlimited scalability allow you to grow and shrink your infrastructure as your
 workloads dictate, not the other way around._
 
 - [High Performance Computing on AWS](https://www.hpcworkshops.com/)
-- [ScaleOut Computing on AWS](https://awslabs.github.io/scale-out-computing-on-aws/workshops/)
 - [Nextflow with AWS Batch](https://ec2spotworkshops.com/nextflow-on-aws-batch.html)
+- [ScaleOut Computing on AWS](https://awslabs.github.io/scale-out-computing-on-aws/workshops/)
 
 ## Infrastructure as Code
 
@@ -257,12 +258,12 @@ mobile, developer tools, IoT, security, enterprise applications, and much more._
 - [Cloud Builders Day](https://cloudbuildersday.s3-eu-west-1.amazonaws.com/CloudBuildersDay-Guide.pdf)
 - [Core Services](http://aws-core-services.ws.kabits.com/)
 - [Customizing Content Delivery with Lambda@Edge](https://github.com/aws-samples/aws-lambda-edge-workshops/blob/master/Workshop1/README.md)
+- [EC2 Auto Scaling with multiple instance types and purchase options](https://ec2spotworkshops.com/ec2-auto-scaling-with-multiple-instance-types-and-purchase-options.html)
 - [EC2 Spot Instance workshops](https://ec2spotworkshops.com/)
 - [General Networking and Transit Gateway workshop](https://networking.aworkshop.io/)
 - [Landing Zone](https://lz-workshop.com/)
 - [Monte Carlo Simulation using AWS Batch](https://github.com/angelarw/aws-batch-monte-carlo-workshop)
 - [Running EC2 Workloads at Scale with EC2 Auto Scaling](https://ec2spotworkshops.com/running-amazon-ec2-workloads-at-scale.html)
-- [EC2 Auto Scaling with multiple instance types and purchase options](https://ec2spotworkshops.com/ec2-auto-scaling-with-multiple-instance-types-and-purchase-options.html)
 
 ## IoT
 
@@ -286,11 +287,11 @@ faster and maintaining control over cost, compliance, and security.
 With AWS Management and Governance services, customers don’t have to
 choose between innovation and control—they can have both._
 
+- [Amazon CloudWatch](https://ako.aws-management.tools/tko372759/en/cw.html)
 - [AWS Control Tower workshop](https://controltower.aws-management.tools/)
 - [AWS Service Catalog workshop](https://service-catalog-tools-workshop.com/servicecatalog.html)
 - [AWS Systems Manager and AWS Config](https://ako.aws-management.tools/tko372759/en/ssm.html)
 - [AWS WellArchitected Labs](https://wellarchitectedlabs.com/)
-- [Amazon CloudWatch](https://ako.aws-management.tools/tko372759/en/cw.html)
 - [Management Tools Immersion Day](https://workshop.aws-management.tools)
 - [One Observability Demo](https://observability.workshop.aws/)
 - [Open Distro for Elasticsearch](https://reinvent.aesworkshops.com/opn302/)
@@ -316,7 +317,6 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 - [AWS Windows Workshop](https://aws-labs.net/)
 - [Creating a Sample RDS SQL Server DB Instance SQL 2008](https://www.awslab.io/sqlserver/lab1/)
 - [Database Migration Service: Microsoft SQL Server 2008 to Aurora MySql](http://msonaws.com/dms.html)
-- [Yet Another Database Migration Service Workshop, Microsoft SQL Server 2008 to Aurora MySql](https://www.awslab.io/sqlserver/lab3/)
 - [HA Wordpress Workshop](http://webapp-workshop.com/)  
 - [Launching SQL Server on EC2 Windows Win 2016 w/ SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronEC2Windows/)
 - [Launching SQL Server on RDS for SQL Server SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronRDS/)
@@ -329,6 +329,7 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 - [Migrating a SQL Server Database to SQL Server on Amazon EC2 2014 to EC2](http://mssql2ec2.awsdocs.net/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://master.d1pty6a5yrjl5y.amplifyapp.com/build-ms-sql-cluster-linux/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://www.ec2mssqlworkshop.com)
+- [Yet Another Database Migration Service Workshop, Microsoft SQL Server 2008 to Aurora MySql](https://www.awslab.io/sqlserver/lab3/)
 
 ## Migration
 
@@ -359,14 +360,14 @@ _The APN helps companies build, market, and sell their AWS offerings by providin
 There are tens of thousands of APN Partners across the globe. More than 90% of Fortune 100 companies and the majority of Fortune 500
 companies utilize APN Partner solutions and services._
 
+- [Atlassian Code Suite Integration](https://atlassian.awsworkshop.io/)
 - [AWS Modernization Workshop: Observability With Epsagon](https://epsagon.awsworkshop.io/)
 - [AWS Serverless With New Relic One](https://newrelic-serverless.awsworkshop.io/)
+- [DevSecOps With Contrast Security](https://contrastsecurity.modernize.awsworkshop.io/)
+- [DevSecOps With Snyk](https://snyk.awsworkshop.io/)
 - [Observability With New Relic One](https://newrelic.awsworkshop.io/)
 - [OpenShift On AWS](https://openshift4-on-aws.awsworkshop.io/)
 - [PCF On AWS](https://pcf-on-aws.awsworkshop.io/)
-- [Atlassian Code Suite Integration](https://atlassian.awsworkshop.io/)
-- [DevSecOps With Snyk](https://snyk.awsworkshop.io/)
-- [DevSecOps With Contrast Security](https://contrastsecurity.modernize.awsworkshop.io/)
 
 ## Security
 
@@ -380,22 +381,22 @@ your focus to scaling and innovating your business._
 - [An AWS Security Odyssey](https://github.com/aws-samples/aws-security-odyssey/tree/master/SID402Workshop)
 - [AWS Identity: Using Amazon Cognito for serverless consumer apps](https://serverless-idm.awssecworkshops.com/)
 - [AWS Protecting Workloads Workshops](http://protecting-workloads.awssecworkshops.com/)
+- [AWS Protecting Workloads Workshops](https://protecting-workloads.awssecworkshops.com/)
+- [AWS Security Hub Workshop](https://github.com/aws-samples/aws-security-hub-workshop)
 - [AWS Security Workshops (*MULTIPLE MODULES*)](https://awssecworkshops.com/)
-- [AWS WAF workshop](https://github.com/aws-samples/aws-waf-classic-workshop)
 - [AWS WAF workshop #2: Protect your application](https://waf.sa.engineering/)
+- [AWS WAF workshop](https://github.com/aws-samples/aws-waf-classic-workshop)
 - [CI/CD Security Workshop](https://cicdsecurity.ajl.sa-demos.net/)
 - [DevSecOps with Snyk](https://snyk.modernize.awsworkshop.io/)
 - [Getting Hands on with Amazon GuardDuty](https://hands-on-guardduty.awssecworkshops.com/)
 - [IAM deep dive](https://identity-round-robin.awssecworkshops.com/)
 - [R00tz Ctf On AWS- Security Capture The Flag](https://r00tz-ctf.awssecworkshops.com/)
-- [AWS Protecting Workloads Workshops](https://protecting-workloads.awssecworkshops.com/)
 - [Scaling threat detection and response in AWS](https://scaling-threat-detection.awssecworkshops.com)
 - [Securing Serverless Workloads](https://github.com/aws-samples/aws-serverless-security-workshop/blob/master/README.md)
 - [Security Automation](https://louay-workshops.com.au/security-automation-workshop.html)
 - [Vulnerability Management](https://vul-mgmt-program.awssecworkshops.com/)
-- [Welcome to the flAWS challenge](http://flaws.cloud/)
 - [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
-- [AWS Security Hub Workshop](https://github.com/aws-samples/aws-security-hub-workshop)
+- [Welcome to the flAWS challenge](http://flaws.cloud/)
 
 ## Serverless
 
@@ -440,8 +441,8 @@ and block storage services, backup, and data migration options to build
 the foundation of your cloud IT environment._
 
 - [Amazon Elastic File System](https://github.com/aws-samples/amazon-efs-workshop)
-- [AWS Hybrid Storage Workshop](https://github.com/aws-samples/aws-hybrid-storage-workshop)
 - [AWS Backup Workshop](https://specialist-cloudformation-templates.s3-us-west-1.amazonaws.com/pl/aws-backup-loft.pdf)
+- [AWS Hybrid Storage Workshop](https://github.com/aws-samples/aws-hybrid-storage-workshop)
 - [Caching S3 with ElastiCache for Redis](https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis)
 - [CloudEndure Deep Dive](http://02h.s3-website.eu-central-1.amazonaws.com)
 - [DataSync and File Gateway](https://github.com/aws-samples/aws-datasync-migration-workshop)
