@@ -459,6 +459,14 @@ the foundation of your cloud IT environment._
 - [Transfer for SFTP Logical Directory demonstration](https://github.com/aws-samples/transfer-for-sftp-logical-directories)
 
 ---
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1923834486996267"
+     data-ad-slot="5265657634"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
 Questions, sugestions, and new content?
 
 [![follow-social](https://img.shields.io/twitter/follow/awsomeworkshops?style=social)](https://twitter.com/awsomeworkshops) <br/>
