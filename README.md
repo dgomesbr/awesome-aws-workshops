@@ -17,6 +17,14 @@ _**(Unofficial)**_ Curated list of awesome workshops found around in the interne
 As we all have been there, finding that workshop that you have just attended shouldn't be hard.
 The idea is to provide an easy central repository, in a collaborative way.
 
+<!-- top-aws-workshops -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1923834486996267"
+     data-ad-slot="7001411130"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
 ---
 
 ## Contributing
