@@ -4,9 +4,6 @@ site_description: A curated list of awesome public workshops around different ar
 ogimage: http://awesome-aws-workshops.com/assets/img/awesomebg-extra.png
 ogimagealt: Awesome AWS Workshops - Build On!
 ---
-<!--
-# Awesome AWS Workshops [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
--->
 
 # **Awesome AWS Workshops**
 
