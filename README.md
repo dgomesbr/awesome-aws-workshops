@@ -16,10 +16,7 @@ ogimagealt: Awesome AWS Workshops - Build On!
 _**(Unofficial)**_ Curated list of awesome workshops found around in the internet.
 As we all have been there, finding that workshop that you have just attended shouldn't be hard.
 The idea is to provide an easy central repository, in a collaborative way.
-<!--
-[![GitAds](https://images.gitads.io/awesome-aws-workshops)](https://tracking.gitads.io/?repo=awesome-aws-workshops)
-_**awesome-aws-workshops** is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial_
--->
+
 ---
 
 ## Contributing
