@@ -16,6 +16,7 @@
   {% endif %}
   {% if page and page.meta.site_description%}
   <meta property="og:description" content="{{ page.meta.site_description }}">
+  <meta property="description" content="{{ page.meta.site_description }}">
   {% endif %}
   {% if page and page.meta.ogimage%}
   <meta property="og:image" content="{{ page.meta.ogimage }}">
@@ -65,5 +66,5 @@
     <script>
          (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-
-{% endblock %}
+    
+    {% endblock %}
