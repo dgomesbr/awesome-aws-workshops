@@ -305,6 +305,7 @@ to content production, storage, processing, and distribution._
 
 - [Setup Sports Event Video Live Streaming and Build an Instant Replay WebApp](https://d2spul8y87c3g5.cloudfront.net/)
 - [UnicornFlix Building a VideoonDemand App Using AWS Amplify and AWS Media Services](https://github.com/awslabs/unicornflix)
+- [Unicorn Live - AWS Amplify, AWS AppSync, and AWS Interactive Video Service to implement a live trivia app.](https://unicornlive.workshop.aws/)
 - [UnicornTrivia Building a Live Trivia Mobile App Using AWS AppSync, AWS Amplify and AWS Media Services](https://github.com/awslabs/aws-amplify-unicorntrivia-workshop)
 
 ## Microsoft
