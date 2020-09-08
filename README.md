@@ -186,6 +186,7 @@ with the AWS Developer Tools to accelerate your software development and release
 - [An Introductory Workshop on CI/CD Practices](https://github.com/awslabs/aws-devops-essential)
 - [AWS Code Suite Integration To Atlassian Jira Software Cloud](https://atlassian.awsworkshop.io/)
 - [Build a multichannel customer engagement solution using Amazon Pinpoint](https://pinpoint-jumpstart.workshop.aws/en/)
+- [Building a Cross-account CI/CD Pipeline with CDK](https://cross-account-cicd-pipeline.workshop.aws/introduction.html)
 - [Building an AI Powered Web Application with AWS Amplify](https://mob302.learn-the-cloud.com)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 - [Building Serverless Web Applications with React and AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
