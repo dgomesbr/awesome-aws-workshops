@@ -461,15 +461,16 @@ the foundation of your cloud IT environment._
 
 ---
 
+Questions, sugestions, and new content?
+
+[![follow-social](https://img.shields.io/twitter/follow/awsomeworkshops?style=social)](https://twitter.com/awsomeworkshops) <br/>
+[![follow-social](https://img.shields.io/twitter/follow/dgomesbr?style=social)](https://twitter.com/dgomesbr) <br/>
+[![follow-social](https://img.shields.io/twitter/follow/enrico18?style=social)](https://twitter.com/enrico18) <br/>
+
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-1923834486996267"
      data-ad-slot="5265657634"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-
-Questions, sugestions, and new content?
-
-[![follow-social](https://img.shields.io/twitter/follow/awsomeworkshops?style=social)](https://twitter.com/awsomeworkshops) <br/>
-[![follow-social](https://img.shields.io/twitter/follow/dgomesbr?style=social)](https://twitter.com/dgomesbr) <br/>
-[![follow-social](https://img.shields.io/twitter/follow/enrico18?style=social)](https://twitter.com/enrico18) <br/>
