@@ -409,7 +409,6 @@ responsibilities to AWS, increasing your agility and innovation._
 - [Learn to build fullstack Serverless apps](https://serverless-stack.com/)
 - [Monolith to Microservices Workshop](https://github.com/aws-samples/unishop-monolith-to-microservices)
 - [PhotoSharing Web App with AWS Amplify and AWS AppSync](https://amplify-workshop.go-aws.com/)
-- [Serverless Data Prep with AWS Glue](https://s3.amazonaws.com/ant313/ANT313.html)
 - [Serverless image process workshop](https://image-processing.serverlessworkshops.io/)
 - [Step Functions](https://step-functions-workshop.go-aws.com/)
 - [Unicorn Flix:](https://github.com/awslabs/unicornflix)
