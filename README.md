@@ -49,14 +49,12 @@ related Workshops_
 - [Amazon SageMaker Immersion Day](https://sagemaker-immersionday.workshop.aws/en)
 - [Amazon SageMaker MLOps](https://github.com/awslabs/amazon-sagemaker-mlops-workshop)
 - [Amazon SageMaker Workshop](https://sagemaker-workshop.com/)
-- [Amazon Sumerian Workshop](http://workshop-sumerian-ar-webapp.s3-website-eu-west-1.amazonaws.com/en/)
 - [Amazon Textract Code Samples](https://github.com/aws-samples/amazon-textract-code-samples)
 - [Amazon Textract Enhancer](https://github.com/aws-samples/amazon-textract-enhancer)
 - [Analyze documents with Amazon Textract and generate output in multiple formats](https://github.com/aws-samples/amazon-textract-textractor)
 - [AWS AI Services Workshop Series](https://ai-services.go-aws.com)
 - [AWS DeepComposer labs](https://github.com/aws-samples/aws-deepcomposer-samples)
 - [AWS DeepLens Workshop](https://github.com/mahendrabairagi/DeeplensWorkshop)
-- [AWS High Level AI Services Workshop](https://ai-services.labgui.de/)
 - [AWS RoboMaker Workshop](https://robomakerworkshops.com/)
 - [Build, train, debug, deploy and monitor with SageMaker](https://github.com/aws-samples/reinvent2019-aim362-sagemaker-debugger-model-monitor)
 - [Getting started with Amazon SageMaker](https://www.getstartedonsagemaker.com/workshop/)
@@ -91,7 +89,6 @@ deploy a web application, connect to a database, and analyze user behavior_
 - [Application Modernization](https://www.mythicalmysfits.com/)
 - [Decloupled Microservices](https://mainline.d1x1ku9g0a2648.amplifyapp.com/)
 - [Modern Application Development Workshop](https://github.com/aws-samples/aws-developer-workshop)
-- [Modern Application Development Workshop with Containers](https://modernize.awsworkshop.io/)
 - [Modernization Workshops](https://awsworkshop.io/)
 - [Mythical Mysfits](https://github.com/aws-samples/aws-modern-application-workshop)
 
@@ -110,7 +107,7 @@ companies provide superior customer service at a lower cost. Over 10 years ago,
 Amazon’s retail business needed a contact center that would give our customers personal,
 dynamic, and natural experiences. We couldn’t find one that met our needs, so we built it._
 
-- [Amazon Connect](http://d3p5tieauj4lsq.cloudfront.net/)
+- [Amazon Connect](https://github.com/aws-samples/amazon-connect-workshop)
 
 ## Containers
 
@@ -128,7 +125,6 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Container Security](https://container-devsecops.awssecworkshops.com/)
 - [Containerizing a .NET application to deploy to ECS/Fargate via CodePipeline](https://containerise.awsbuilders.cloud/)
 - [ECS Fargate Workshop](https://ecs-fargate-dev-ops-data.workshop.aws/)
-- [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io/)
 - [GitOps Helm Workshop](https://helm.workshop.flagger.dev/)
 - [Integrating security into your container pipeline](https://container-devsecops.awssecworkshops.com/)
 - [Introduction to GitOps on Amazon EKS with Weaveworks](https://weaveworks-gitops.awsworkshop.io/)
@@ -150,8 +146,6 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
 - [AWS Database Migration Workshop - re:Invent 2019](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
 - [AWS DMS Immersion Day](https://dms-immersionday.workshop.aws/)
-- [AWS Glue Workshop](https://aws-glue.analytics.workshops.aws.dev/en/)
-- [Migrating a SQL Server Database to Aurora (MySQL)](http://mssql2aurora.awsdocs.net/)
 - [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
 
@@ -184,9 +178,7 @@ with the AWS Developer Tools to accelerate your software development and release
 - [Amazon CodeGuru](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/codeguru/public/en/index.html)
 - [Amplify Social Network App Workshop](https://amplify-sns.workshop.aws/en)
 - [An Introductory Workshop on CI/CD Practices](https://github.com/awslabs/aws-devops-essential)
-- [AWS Code Suite Integration To Atlassian Jira Software Cloud](https://atlassian.awsworkshop.io/)
 - [Build a multichannel customer engagement solution using Amazon Pinpoint](https://pinpoint-jumpstart.workshop.aws/en/)
-- [Building a Cross-account CI/CD Pipeline with CDK](https://cross-account-cicd-pipeline.workshop.aws/introduction.html)
 - [Building an AI Powered Web Application with AWS Amplify](https://mob302.learn-the-cloud.com)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 - [Building Serverless Web Applications with React and AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
@@ -194,7 +186,6 @@ with the AWS Developer Tools to accelerate your software development and release
 - [CI/CD Serverless CDK](https://cicd.serverlessworkshops.io/)
 - [CI/CD with Fargate](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-fargate-bg-workshop/public/en/index.html)
 - [CI/CD with Jenkins](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/jenkins-ws/public/en/index.html)
-- [Continuous Deployment on AWS Workshop](https://cd.labgui.de/)
 - [Getting Started with AWS for Formal Workloads](https://getstarted.awsworkshop.io/)
 - [Learn how to code on AWS](https://learn-to-code.workshop.aws)
 - [Operations in CI/CD](https://louay-workshops.com.au/security-automation-workshop.html)
@@ -213,7 +204,6 @@ to give you the agility to respond to the changing needs of your workforce._
 _AWS provides enterprises with multiple ways to consume services
 based on your business needs._
 
-- [SAP HANA on AWS Workshop](https://hdb.labgui.de/)
 - [SAP on AWS Beyond infrastructure](https://www.saponaws.aworkshop.io/)
 
 ## Event Driven
@@ -317,9 +307,7 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 
 - [Amazon FSx Workshop](https://github.com/aws-samples/amazon-fsx-workshop)
 - [AWS .Net Developer Immersion Day](https://net-immersionday.workshop.aws/)
-- [AWS Database Migration Service SQL 2016](https://www.awslab.io/dotnet/dms/)
 - [AWS Windows Workshop](https://aws-labs.net/)
-- [Creating a Sample RDS SQL Server DB Instance SQL 2008](https://www.awslab.io/sqlserver/lab1/)
 - [Database Migration Service: Microsoft SQL Server 2008 to Aurora MySql](http://msonaws.com/dms.html)
 - [HA Wordpress Workshop](http://webapp-workshop.com/)  
 - [Launching SQL Server on EC2 Windows Win 2016 w/ SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronEC2Windows/)
@@ -327,13 +315,8 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 - [Microsoft on AWS Development day site](http://msonaws.com/)
 - [Microsoft SQL Server AlwaysOn on AWS EC2 - 2 node 2019 AG](http://mssqlec2workshop.awsdocs.net/en/)
 - [Microsoft SQL Server Modernization 2017 to Amazon Aurora](http://mssqlmodernization.awsdocs.net/en/)
-- [Migrate Your First SQL Server Database to Amazon RDS for SQL Server 2014 to RDS](http://mssql2rds.awsdocs.net/)
-- [Migrate Your First SQL Server Database to Amazon RDS for SQL Server using Backup/Restore 2008 to RDS](https://www.awslab.io/sqlserver/lab2/)
-- [Migrating (DMS) a SQL Server Database to Aurora (MySQL) 2008 to Aurora](http://mssql2aurora.awsdocs.net/)
-- [Migrating a SQL Server Database to SQL Server on Amazon EC2 2014 to EC2](http://mssql2ec2.awsdocs.net/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://master.d1pty6a5yrjl5y.amplifyapp.com/build-ms-sql-cluster-linux/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://www.ec2mssqlworkshop.com)
-- [Yet Another Database Migration Service Workshop, Microsoft SQL Server 2008 to Aurora MySql](https://www.awslab.io/sqlserver/lab3/)
 
 ## Migration
 
@@ -364,10 +347,8 @@ _The APN helps companies build, market, and sell their AWS offerings by providin
 There are tens of thousands of APN Partners across the globe. More than 90% of Fortune 100 companies and the majority of Fortune 500
 companies utilize APN Partner solutions and services._
 
-- [Atlassian Code Suite Integration](https://atlassian.awsworkshop.io/)
 - [AWS Modernization Workshop: Observability With Epsagon](https://epsagon.awsworkshop.io/)
 - [AWS Serverless With New Relic One](https://newrelic-serverless.awsworkshop.io/)
-- [DevSecOps With Contrast Security](https://contrastsecurity.modernize.awsworkshop.io/)
 - [DevSecOps With Snyk](https://snyk.awsworkshop.io/)
 - [Observability With New Relic One](https://newrelic.awsworkshop.io/)
 - [OpenShift On AWS](https://openshift4-on-aws.awsworkshop.io/)
@@ -391,7 +372,6 @@ your focus to scaling and innovating your business._
 - [AWS WAF workshop #2: Protect your application](https://waf.sa.engineering/)
 - [AWS WAF workshop](https://github.com/aws-samples/aws-waf-classic-workshop)
 - [CI/CD Security Workshop](https://cicdsecurity.ajl.sa-demos.net/)
-- [DevSecOps with Snyk](https://snyk.modernize.awsworkshop.io/)
 - [Getting Hands on with Amazon GuardDuty](https://hands-on-guardduty.awssecworkshops.com/)
 - [IAM deep dive](https://identity-round-robin.awssecworkshops.com/)
 - [R00tz Ctf On AWS- Security Capture The Flag](https://r00tz-ctf.awssecworkshops.com/)
@@ -451,8 +431,7 @@ the foundation of your cloud IT environment._
 - [CloudEndure Deep Dive](http://02h.s3-website.eu-central-1.amazonaws.com)
 - [DataSync and File Gateway](https://github.com/aws-samples/aws-datasync-migration-workshop)
 - [EFS Performance, Scaleout, Monitoring, Incloud Transfer](https://github.com/darrylsosborne/amazon-efs-workshop)
-- [FSx for Lustre](https://github.com/aws-samples/amazon-fsx-workshop/tree/master/fsx-lustre/)
-- [FSx for Windows 90 minutes version for re:Invent 2019](https://github.com/aws-samples/amazon-fsx-workshop/tree/master/stg326)
+- [FSx for Lustre](https://github.com/aws-samples/amazon-fsx-workshop/tree/master/lustre)
 - [FSx for Windows](https://github.com/aws-samples/amazon-fsx-tutorial/tree/master/windows-file-server)
 - [HPC handson FSx for Lustre](https://master.d2fvrafk9v089j.amplifyapp.com/04-amazon-fsx-for-lustre.html)
 - [Maximizing Storage Performance](https://github.com/aws-samples/maximizing-storage-throughput-and-performance)
