@@ -226,6 +226,14 @@ workloads dictate, not the other way around._
 - [Nextflow with AWS Batch](https://ec2spotworkshops.com/nextflow-on-aws-batch.html)
 - [ScaleOut Computing on AWS](https://awslabs.github.io/scale-out-computing-on-aws/workshops/)
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1923834486996267"
+     data-ad-slot="5265657634"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
 ## Infrastructure as Code
 
 _Codifying your infrastructure allows you to treat your
@@ -445,11 +453,3 @@ Questions, sugestions, and new content?
 [![follow-social](https://img.shields.io/twitter/follow/awsomeworkshops?style=social)](https://twitter.com/awsomeworkshops) <br/>
 [![follow-social](https://img.shields.io/twitter/follow/dgomesbr?style=social)](https://twitter.com/dgomesbr) <br/>
 [![follow-social](https://img.shields.io/twitter/follow/enrico18?style=social)](https://twitter.com/enrico18) <br/>
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1923834486996267"
-     data-ad-slot="5265657634"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
