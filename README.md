@@ -115,6 +115,7 @@ _AWS is the #1 place for you to run containers and 80%
 of all containers in the cloud run on AWS. Customers choose
 to run their containers on AWS because of our security, reliability, and scalability._
 
+- [Running Containers on AWS using Amazon ECS and AWS Fargate](https://containersonaws.com/)
 - [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
