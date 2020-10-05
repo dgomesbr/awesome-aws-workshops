@@ -69,6 +69,7 @@ related Workshops_
 - [SageMaker Workshop on steroids](https://www.sagemakerworkshop.com/)
 - [Using Amazon SageMaker Managed Spot Training](https://ec2spotworkshops.com/using-sagemaker-managed-spot-training.html)
 - [Voice Robotics Workshop](http://voiceroboticsworkshop.com/)
+- [TorchServe on AWS](https://torchserve-on-aws.workshop.aws)
 
 ## Alexa
 
