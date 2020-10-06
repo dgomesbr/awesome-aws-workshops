@@ -246,7 +246,7 @@ members before deploying into production._
 - [AWS CDK Workshop](https://cdkworkshop.com/)
 - [AWS CloudFormation Best Practices:](http://workshop.quickstart.awspartner.com/)
 - [AWS CloudFormation Workshop for Partners](https://workshop.quickstart.awspartner.com/)
-- [AWS CloudFormation Workshop](https://cfn101.solution.builders/)
+- [AWS CloudFormation Workshop](https://cfn101.sa.engineering/)
 - [Modern Infrastructure as Code with Pulumi](https://pulumi.awsworkshop.io/)
 
 ## Infrastructure
