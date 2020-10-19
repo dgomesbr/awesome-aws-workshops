@@ -170,6 +170,7 @@ answers from all your data to all your users_
 - [Running Spark apps with EMR on Spot Instances](https://ec2spotworkshops.com/running_spark_apps_with_emr_on_spot_instances.html)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
+- [Build a 360 degree customer view](http://d2m4xekox520s.cloudfront.net/introduction.html)
 
 
 ## Development and CI/CD
@@ -327,6 +328,7 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 - [Microsoft SQL Server Modernization 2017 to Amazon Aurora](http://mssqlmodernization.awsdocs.net/en/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://master.d1pty6a5yrjl5y.amplifyapp.com/build-ms-sql-cluster-linux/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://www.ec2mssqlworkshop.com)
+- [Running Microsoft Workloads on AWS Immersion Day](https://ms-immersionday.workshop.aws/)
 
 ## Migration
 
