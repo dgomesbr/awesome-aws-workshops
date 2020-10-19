@@ -58,7 +58,7 @@ related Workshops_
 - [AWS RoboMaker Workshop](https://robomakerworkshops.com/)
 - [Build, train, debug, deploy and monitor with SageMaker](https://github.com/aws-samples/reinvent2019-aim362-sagemaker-debugger-model-monitor)
 - [Getting started with Amazon SageMaker](https://www.getstartedonsagemaker.com/workshop/)
-- [How to prevent misdiagnosis of breast diseases using Amazon SageMaker, Amazon SageMaker Ground Truth and AWS Step Functions:](https://github.com/mravanini/mammography-workshop)
+- [Mammography classification workshop using Amazon SageMaker, Amazon SageMaker Ground Truth and AWS Step Functions](https://github.com/aws-samples/mammography-classification-workshop)
 - [Index your pile of papers with Amazon Textract, Amazon Comprehend and Amazon Elasticsearch Service](https://github.com/aws-samples/workshop-textract-comprehend-es/)
 - [Lunar Lander on AWS: Land a Rocket with Reinforcement Learning](https://lunar-lander.workshop.aws/en)
 - [Machine Learning Data Lake Workshop](https://github.com/aws-samples/aws-ml-data-lake-workshop)
