@@ -89,6 +89,7 @@ deploy a web application, connect to a database, and analyze user behavior_
 
 - [Application Modernization](https://www.mythicalmysfits.com/)
 - [Decloupled Microservices](https://mainline.d1x1ku9g0a2648.amplifyapp.com/)
+- [Iterative App Modernization Workshop](https://app-modernization.workshop.aws/en)
 - [Modern Application Development Workshop](https://github.com/aws-samples/aws-developer-workshop)
 - [Modernization Workshops](https://awsworkshop.io/)
 - [Mythical Mysfits](https://github.com/aws-samples/aws-modern-application-workshop)
