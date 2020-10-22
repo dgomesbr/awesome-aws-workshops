@@ -46,7 +46,6 @@ related Workshops_
 - [AI Workshop](https://github.com/samir-souza/ai-workshop)
 - [AI/ML Workshops](https://github.com/drandrewkane/AI_ML_Workshops)
 - [Amazon SageMaker Autopilot Workshop](https://gitlab.com/juliensimon/aim361)
-- [Amazon SageMaker Immersion Day](https://sagemaker-immersionday.workshop.aws/en)
 - [Amazon SageMaker MLOps](https://github.com/awslabs/amazon-sagemaker-mlops-workshop)
 - [Amazon SageMaker Workshop](https://sagemaker-workshop.com/)
 - [Amazon Textract Code Samples](https://github.com/aws-samples/amazon-textract-code-samples)
@@ -62,13 +61,11 @@ related Workshops_
 - [Index your pile of papers with Amazon Textract, Amazon Comprehend and Amazon Elasticsearch Service](https://github.com/aws-samples/workshop-textract-comprehend-es/)
 - [Lunar Lander on AWS: Land a Rocket with Reinforcement Learning](https://lunar-lander.workshop.aws/en)
 - [Machine Learning Data Lake Workshop](https://github.com/aws-samples/aws-ml-data-lake-workshop)
-- [Machine Learning with AWS Glue and Amazon SageMaker Lab: Build, Train, and Deploy a Text Classification Model](https://d3doqww75uq74w.cloudfront.net/lab/index.html)
 - [Parse JSON response of Amazon Textract](https://github.com/aws-samples/amazon-textract-response-parser)
 - [Realtime analytics for ride sharing Workshop](https://streaming-analytics.labgui.de/)
 - [SageMaker for Battlesnake AI](https://github.com/awslabs/sagemaker-battlesnake-ai)
 - [SageMaker Workshop on steroids](https://www.sagemakerworkshop.com/)
 - [Using Amazon SageMaker Managed Spot Training](https://ec2spotworkshops.com/using-sagemaker-managed-spot-training.html)
-- [Voice Robotics Workshop](http://voiceroboticsworkshop.com/)
 - [TorchServe on AWS](https://torchserve-on-aws.workshop.aws)
 
 ## Alexa
@@ -88,7 +85,7 @@ _Build a Modern Web Applications on AWS,
 deploy a web application, connect to a database, and analyze user behavior_
 
 - [Application Modernization](https://www.mythicalmysfits.com/)
-- [Decloupled Microservices](https://mainline.d1x1ku9g0a2648.amplifyapp.com/)
+- [Iterative App Modernization Workshop](https://app-modernization.workshop.aws/en)
 - [Modern Application Development Workshop](https://github.com/aws-samples/aws-developer-workshop)
 - [Modernization Workshops](https://awsworkshop.io/)
 - [Mythical Mysfits](https://github.com/aws-samples/aws-modern-application-workshop)
@@ -120,8 +117,6 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Amazon ECS workshop for Fargate](https://ecsworkshop.com/)
 - [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 - [Amazon EKS workshop](https://eksworkshop.com/)
-- [Amazon SageMaker + EKS + Kubeflow Workshop: Hands-On Distributed Training with TensorFlow, Keras, PyTorch, and MXNet](https://master.d2j834wqg8s4j0.amplifyapp.com)
-- [AWS App Mesh with Amazon EKS Workshop](https://app-mesh-eks-workshop.cloudfiles.me/)
 - [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
 - [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
 - [Container Security](https://container-devsecops.awssecworkshops.com/)
@@ -140,7 +135,6 @@ _Choose from 15 purpose-built database engines including relational,
 key-value, document, in-memory, graph, time series, and ledger databases._
 
 - [Amazon Aurora Labs for MySQL](https://awsauroralabsmysql.com/)
-- [Amazon Aurora Labs for PostgreSQL](https://awsauroralabspostgres.com/)
 - [Amazon DynamoDB Labs](https://amazon-dynamodb-labs.com/)
 - [Amazon Elasticsearch Workshops](https://deh4m73phis7u.cloudfront.net/log-analytics/mainlab/)
 - [Amazon Quantum Ledger Database Workshops](https://qldb-immersionday.workshop.aws)
@@ -148,7 +142,6 @@ key-value, document, in-memory, graph, time series, and ledger databases._
 - [Amazon Redshift Modernize DW](https://github.com/aws-samples/amazon-redshift-modernize-dw)
 - [AWS Database Migration Workshop - re:Invent 2019](https://github.com/aws-samples/amazon-aurora-database-migration-workshop-reinvent2019)
 - [AWS DMS Immersion Day](https://dms-immersionday.workshop.aws/)
-- [PostgreSQL Training](http://pg-au.com/training_decks.html)
 - [Redshift Immersion Day](https://redshift-immersion.workshop.aws)
 
 ## Datalakes and Analytics
@@ -160,9 +153,7 @@ answers from all your data to all your users_
 - [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://quicksight-covid19-labs.workshop.aws/)
 - [Athena](https://athena-in-action.workshop.aws/)
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
-- [Build Advanced Analytics & Dashbords with Amazon QuickSight](http://d3h1oz7s9b419c.cloudfront.net/en/introduction.html)
 - [Building Streaming Analytics Applications On AWS](https://real-time-streaming-with-kinesis.workshop.aws)
-- [Data Engineering 2.0](https://aws-dataengineering-day.workshop.aws/en)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
 - [Embed Amazon Quicksight in a Web App from beggining to end](https://embed-workshop.learnquicksight.online/1.introduction.html)
 - [Incremental Data Processing On Amazon EMR (apache Hudi)](https://incremental-data-processing-on-amazonemr.workshop.aws/en)
@@ -182,7 +173,6 @@ with the AWS Developer Tools to accelerate your software development and release
 - [Amplify Social Network App Workshop](https://amplify-sns.workshop.aws/en)
 - [An Introductory Workshop on CI/CD Practices](https://github.com/awslabs/aws-devops-essential)
 - [Build a multichannel customer engagement solution using Amazon Pinpoint](https://pinpoint-jumpstart.workshop.aws/en/)
-- [Building an AI Powered Web Application with AWS Amplify](https://mob302.learn-the-cloud.com)
 - [Building Mobile Applications with React Native & AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react-native)
 - [Building Serverless Web Applications with React and AWS Amplify](https://github.com/dabit3/aws-amplify-workshop-react)
 - [CI/CD and Test Workloads with EC2 Spot Instances](https://ec2spotworkshops.com/amazon-ec2-spot-cicd-workshop.html)
@@ -214,7 +204,6 @@ based on your business needs._
 _An event-driven architecture uses events to trigger and communicate
 between decoupled services and is common in modern applications built with microservices._
 
-- [Amazon MQ Workshop](http://mqworkshop.com/)
 - [Amazon MSK](https://amazonmsk-labs.workshop.aws/)
 - [Async Messaging Workshop](https://async-messaging.workshop.aws/)
 
@@ -257,7 +246,6 @@ storage, database, analytics, networking, machine learning and AI,
 mobile, developer tools, IoT, security, enterprise applications, and much more._
 
 - [Amazon Lightsail Workshop](https://lightsailworkshop.com/)
-- [Build a migration factory with CloudEndure and Migration Hub](http://ent304.s3-website-us-east-1.amazonaws.com/)
 - [Choose Your Own SAML Adventure](http://federationworkshopreinvent2016.s3-website-us-east-1.amazonaws.com/)
 - [Cloud Builders Day](https://cloudbuildersday.s3-eu-west-1.amazonaws.com/CloudBuildersDay-Guide.pdf)
 - [Core Services](http://aws-core-services.ws.kabits.com/)
@@ -275,10 +263,8 @@ _AWS has broad and deep IoT services, from the edge to the cloud.
 AWS IoT is the only cloud vendor to bring together data management
 and rich analytics in easy to use services designed for noisy IoT data._
 
-- [AWS IOT Analytics Workshop](https://s3.amazonaws.com/iotareinvent18/Workshop.html)
 - [AWS IoT Analytics](https://github.com/aws-samples/aws-iot-analytics-workshop)
 - [AWS IoT Greengrass Bootcamp Advanced](http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/Advanced/Greengrass-Bootcamp_Advanced.html)
-- [AWS IoT Greengrass Bootcamp Starter](https://s3.amazonaws.com/greengrassworkshop/Greengrass-Bootcamp.html)
 - [AWS IoT SiteWise](https://iot-sitewise.workshop.aws/)
 - [AWS IoT Wind Energy Workshop](http://wind-energy-workshop-guide.s3-website-us-east-1.amazonaws.com/)
 - [AWS IoT/Greengrass/Analytics/Edge](https://github.com/aws-samples/aws-iot-greengrass-edge-analytics-workshop)
@@ -305,7 +291,6 @@ choose between innovation and control—they can have both._
 _AWS brings highly scalable, elastic and secure cloud services
 to content production, storage, processing, and distribution._
 
-- [Setup Sports Event Video Live Streaming and Build an Instant Replay WebApp](https://d2spul8y87c3g5.cloudfront.net/)
 - [UnicornFlix Building a VideoonDemand App Using AWS Amplify and AWS Media Services](https://github.com/awslabs/unicornflix)
 - [Unicorn Live - AWS Amplify, AWS AppSync, and AWS Interactive Video Service to implement a live trivia app.](https://unicornlive.workshop.aws/)
 - [UnicornTrivia Building a Live Trivia Mobile App Using AWS AppSync, AWS Amplify and AWS Media Services](https://github.com/awslabs/aws-amplify-unicorntrivia-workshop)
@@ -319,14 +304,9 @@ Microsoft technologies or are designed to work with Microsoft technologies._
 - [Amazon FSx Workshop](https://github.com/aws-samples/amazon-fsx-workshop)
 - [AWS .Net Developer Immersion Day](https://net-immersionday.workshop.aws/)
 - [AWS Windows Workshop](https://aws-labs.net/)
-- [Database Migration Service: Microsoft SQL Server 2008 to Aurora MySql](http://msonaws.com/dms.html)
-- [HA Wordpress Workshop](http://webapp-workshop.com/)  
-- [Launching SQL Server on EC2 Windows Win 2016 w/ SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronEC2Windows/)
-- [Launching SQL Server on RDS for SQL Server SQL 2017](https://awsentworkshops.com/workshops/MigrateSQLToAWS/LaunchingSQLServeronRDS/)
 - [Microsoft on AWS Development day site](http://msonaws.com/)
 - [Microsoft SQL Server AlwaysOn on AWS EC2 - 2 node 2019 AG](http://mssqlec2workshop.awsdocs.net/en/)
 - [Microsoft SQL Server Modernization 2017 to Amazon Aurora](http://mssqlmodernization.awsdocs.net/en/)
-- [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://master.d1pty6a5yrjl5y.amplifyapp.com/build-ms-sql-cluster-linux/)
 - [MS-SQL Availability Group - Wind 2019 or Linux w/SQL 2017 STD + FSx witness](https://www.ec2mssqlworkshop.com)
 - [Running Microsoft Workloads on AWS Immersion Day](https://ms-immersionday.workshop.aws/)
 
@@ -400,7 +380,6 @@ _Serverless is the native architecture of the
 cloud that enables you to shift more of your operational
 responsibilities to AWS, increasing your agility and innovation._
 
-- [.Net Serverless Lambda](http://msonaws.com/lambda.html)
 - [Alien Attack](https://alienattack.workshop.aws/)
 - [Amplify and React](http://aws-react-amplify.ws.kabits.com/)
 - [Amplify predictions workshop](https://github.com/mlabieniec/IonicPredictions)
@@ -439,12 +418,10 @@ the foundation of your cloud IT environment._
 - [AWS Backup Workshop](https://specialist-cloudformation-templates.s3-us-west-1.amazonaws.com/pl/aws-backup-loft.pdf)
 - [AWS Hybrid Storage Workshop](https://github.com/aws-samples/aws-hybrid-storage-workshop)
 - [Caching S3 with ElastiCache for Redis](https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis)
-- [CloudEndure Deep Dive](http://02h.s3-website.eu-central-1.amazonaws.com)
 - [DataSync and File Gateway](https://github.com/aws-samples/aws-datasync-migration-workshop)
 - [EFS Performance, Scaleout, Monitoring, Incloud Transfer](https://github.com/darrylsosborne/amazon-efs-workshop)
 - [FSx for Lustre](https://github.com/aws-samples/amazon-fsx-workshop/tree/master/lustre)
 - [FSx for Windows](https://github.com/aws-samples/amazon-fsx-tutorial/tree/master/windows-file-server)
-- [HPC handson FSx for Lustre](https://master.d2fvrafk9v089j.amplifyapp.com/04-amazon-fsx-for-lustre.html)
 - [Maximizing Storage Performance](https://github.com/aws-samples/maximizing-storage-throughput-and-performance)
 - [Online AWS Data Migrations](https://github.com/aws-samples/aws-online-data-migration-workshop)
 - [S3 Security Settings and Controls](https://github.com/aws-samples/amazon-s3-security-settings-and-controls)
