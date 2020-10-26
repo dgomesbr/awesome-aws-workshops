@@ -154,6 +154,7 @@ answers from all your data to all your users_
 - [Amazon Quicksight Workshop - COVID-19 Data Analysis](https://quicksight-covid19-labs.workshop.aws/)
 - [Athena](https://athena-in-action.workshop.aws/)
 - [AWS Lake Formation Workshop](https://lakeformation.aworkshop.io/)
+- [Building a 360 Degree customer view Workshop](https://360-degree-customer-view.workshop.aws/en/)
 - [Building Streaming Analytics Applications On AWS](https://real-time-streaming-with-kinesis.workshop.aws)
 - [Data ingesting and processing workshop](https://dataprocessing.wildrydes.com/)
 - [Embed Amazon Quicksight in a Web App from beggining to end](https://embed-workshop.learnquicksight.online/1.introduction.html)
