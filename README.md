@@ -163,8 +163,6 @@ answers from all your data to all your users_
 - [Running Spark apps with EMR on Spot Instances](https://ec2spotworkshops.com/running_spark_apps_with_emr_on_spot_instances.html)
 - [Serverless Data Lake Workshop](https://github.com/aws-samples/amazon-serverless-datalake-workshop)
 - [Voice Powered Analytics](https://github.com/awslabs/voice-powered-analytics)
-- [Build a 360 degree customer view](http://d2m4xekox520s.cloudfront.net/introduction.html)
-
 
 ## Development and CI/CD
 
