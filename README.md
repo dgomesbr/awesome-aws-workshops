@@ -7,7 +7,7 @@ ogimagealt: Awesome AWS Workshops - Build On!
 
 # **Awesome AWS Workshops**
 
-![Awesome AWS Banner](https://awesome-aws-workshops.com/assets/img/awesomebanner.png)
+[![Deprecation Notice](https://awesome-aws-workshops.com/assets/img/deprecation.png)](https://workshops.aws/?source=awesomeawsworkshops&utm_source=awesomeawsworkshops&utm_medium=deprecation-notice)
 
 ![deploy](https://github.com/dgomesbr/awesome-aws-workshops/workflows/deploy/badge.svg)
 ![last-updated](https://img.shields.io/github/last-commit/dgomesbr/awesome-aws-workshops?color=CB006D&label=last%20updated)

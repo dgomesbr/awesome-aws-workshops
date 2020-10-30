@@ -18,8 +18,8 @@ theme:
     #    - tabs
     - instant
   palette:
-    primary: orange
-    accent: indigo
+    primary: blue grey
+    accent: pink
   favicon: assets/img/favicon.ico
   icon:
     logo: material/cloud
