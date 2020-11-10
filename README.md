@@ -357,7 +357,6 @@ your focus to scaling and innovating your business._
 - [Adding Security into DevOps](https://devops.awssecworkshops.com/)
 - [An AWS Security Odyssey](https://github.com/aws-samples/aws-security-odyssey/tree/master/SID402Workshop)
 - [AWS Identity: Using Amazon Cognito for serverless consumer apps](https://serverless-idm.awssecworkshops.com/)
-- [AWS Protecting Workloads Workshops](http://protecting-workloads.awssecworkshops.com/)
 - [AWS Protecting Workloads Workshops](https://protecting-workloads.awssecworkshops.com/)
 - [AWS Security Hub Workshop](https://github.com/aws-samples/aws-security-hub-workshop)
 - [AWS Security Workshops (*MULTIPLE MODULES*)](https://awssecworkshops.com/)
