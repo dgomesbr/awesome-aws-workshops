@@ -31,7 +31,7 @@ jobs:
 
       - name: GitHub Pages
         if: success()
-        uses: crazy-max/ghaction-github-pages@v1.3.0
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           build_dir: site
         env:
